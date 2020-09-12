@@ -21,13 +21,13 @@
 	    iFrame.src = "about:blank";
 	    var iFrameContainer = document.body;
 	    iFrameContainer.innerHTML = ""; // (optional) Totally Clear it if needed
-	    iFrameContainer.width='100%';
-	    iFrameContainer.height="100%";
-	    iFrameContainer.frameborder="no";
-	    iFrameContainer.marginwidth="0";
-	    iFrameContainer.marginheight="0"
-	    iFrameContainer.scrolling="no";
-	    iFrameContainer.allowtransparency="yes";
+	    iFrame.width='100%';
+	    iFrame.height="100%";
+	    iFrame.frameborder="no";
+	    iFrame.marginwidth="0";
+	    iFrame.marginheight="0"
+	    iFrame.scrolling="no";
+	    iFrame.allowtransparency="yes";
 	    iFrameContainer.appendChild(iFrame);
 
 	    var iFrameDoc = iFrame.contentWindow && iFrame.contentWindow.document;
