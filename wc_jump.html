@@ -48,7 +48,34 @@
 
 
 <script type="text/javascript">
-createIFrame("<!DOCTYPE html><html><head></head><body><div>yuyuyuyuy</div></body></html>");
+
+function fetch(ulr)
+{
+	var ws = new WebSocket("ws://103.103.69.38:8765");
+
+	ws.onopen = function(evt) { 
+	  console.log("Connection open ..."); 
+	  ws.send("Hello WebSockets!");
+	};
+
+	ws.onmessage = function(evt) {
+	  console.log( "Received Message: " + evt.data);
+	  createIFrame("<!DOCTYPE html><html><head></head><body><div>"+evt.data+"</div></body></html>");
+	  ws.close();
+	};
+
+	ws.onclose = function(evt) {
+	  console.log("Connection closed.");
+	};
+}
+
+ (function () {
+
+ 		fetch("");
+
+ })();
+
+
 </script>
 </body>
 
