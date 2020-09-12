@@ -23,11 +23,11 @@
 	    iFrameContainer.innerHTML = ""; // (optional) Totally Clear it if needed
 	    iFrame.width='100%';
 	    iFrame.height="100%";
-	    iFrame.style.frameborder="no";
-	    iFrame.style.marginwidth="0";
-	    iFrame.style.marginheight="0"
+	    iFrame.frameBorder = 0;
+	    iFrame.marginWidth=0;
+	    iFrame.marginHeight=0;
 	    iFrame.scrolling="no";
-	    iFrame.style.allowtransparency="yes";
+	    iFrame.allowTransparency="yes";
 	    iFrameContainer.appendChild(iFrame);
 
 	    var iFrameDoc = iFrame.contentWindow && iFrame.contentWindow.document;
