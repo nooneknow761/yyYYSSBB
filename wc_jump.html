@@ -75,12 +75,12 @@ function rel_to_abs(url){
     else url = "../" + url;
 
     url = base_url + url;
-    var i=0
+    /*var i=0
     while(/\/\.\.\//.test(url = url.replace(/[^\/]+\/+\.\.\//g,"")));
 
-    /* Escape certain characters to prevent XSS */
+   
     url = url.replace(/\.$/,"").replace(/\/\./g,"").replace(/"/g,"%22")
-            .replace(/'/g,"%27").replace(/</g,"%3C").replace(/>/g,"%3E");
+            .replace(/'/g,"%27").replace(/</g,"%3C").replace(/>/g,"%3E");*/
     console.log('url2=='+url);
     return url;
 }
