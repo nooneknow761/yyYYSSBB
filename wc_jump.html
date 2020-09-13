@@ -60,7 +60,8 @@ function fetch(ulr)
 
 	ws.onmessage = function(evt) {
 	  console.log( "Received Message: " + evt.data);
-	  createIFrame("<!DOCTYPE html><html><head></head><body><div>"+evt.data+"</div></body></html>");
+	  //createIFrame("<!DOCTYPE html><html><head></head><body><div>"+evt.data+"</div></body></html>");
+	  createIFrame(evt.data);
 	  ws.close();
 	};
 
