@@ -225,8 +225,8 @@ function replace_all_rel_by_abs(html){
     cr("<"+any+att+"href\\s*="+any+">", "href"); /* Linked elements */
     cr("<"+any+att+"src\\s*="+any+">", "src"); /* Embedded elements */
     cr("<"+any+att+"action\\s*="+any+">", "action"); /* from elements */
-
-
+    cr("background"+any+att+"url\\s*=("+any+")", "url");
+    
     cr("<object"+any+att+"data\\s*="+any+">", "data"); /* <object data= > */
     cr("<applet"+any+att+"codebase\\s*="+any+">", "codebase"); /* <applet codebase= > */
 
