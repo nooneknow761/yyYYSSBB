@@ -201,14 +201,19 @@ function replace_all_rel_by_abs(html){
         var re2 = new RegExp("("+attribute+"\\s*=\\s*')([^']+)", 'gi');
         var at1 = new RegExp('('+front+')([^"]+)(")', flags);
         var at2 = new RegExp("("+front+")([^']+)(')", flags);
+        var handleAttr=null;
         if(typeof delimiter == "string"){
             end = typeof end == "string" ? end : "";
             var at3 = new RegExp("("+front+")([^\"'][^"+delimiter+"]*" + (end?"?)("+end+")":")()"), flags);
-            var handleAttr = function(match, g1, g2){return g1+g2.replace(at1, by2).replace(at2, by2).replace(at3, by2)};
+            handleAttr = function(match, g1, g2){
+            	console.log('handleAttr match');
+            	return g1+g2.replace(at1, by2).replace(at2, by2).replace(at3, by2)
+            };
         } else {
-            var handleAttr = function(match, g1, g2){return g1+g2.replace(at1, by2).replace(at2, by2)};
+            handleAttr = function(match, g1, g2){return g1+g2.replace(at1, by2).replace(at2, by2)};
     }
         html = html.replace(selector, function(match){
+        	console.log('stype match');
              return match.replace(re1, handleAttr).replace(re2, handleAttr);
         });
     }
@@ -219,6 +224,8 @@ function replace_all_rel_by_abs(html){
     cr("<"+any+att+"href\\s*="+any+">", "href"); /* Linked elements */
     cr("<"+any+att+"src\\s*="+any+">", "src"); /* Embedded elements */
     cr("<"+any+att+"action\\s*="+any+">", "action"); /* from elements */
+
+
     cr("<object"+any+att+"data\\s*="+any+">", "data"); /* <object data= > */
     cr("<applet"+any+att+"codebase\\s*="+any+">", "codebase"); /* <applet codebase= > */
 
