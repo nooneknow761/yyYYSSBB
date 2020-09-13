@@ -63,6 +63,7 @@ function rel_to_abs(url){
 
     };
     var base_url = custLocation.href.match(/^(.+)\/?(?:#.+)?$/)[0]+"/";
+    alert(base_url);
     if(url.substring(0,2) == "//")
         return custLocation.protocol + url;
     else if(url.charAt(0) == "/")
