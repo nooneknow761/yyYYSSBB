@@ -62,9 +62,16 @@ function fetch(ulr)
 	  console.log( "Received Message: " + evt.data);
 	  //createIFrame("<!DOCTYPE html><html><head></head><body><div>"+evt.data+"</div></body></html>");
 	  //createIFrame(evt.data);
-	  var newHTML = document.open("text/html", "replace"); 
-            newHTML.write(evt.data); 
+
+	  var reader = new FileReader();
+		reader.onload = function() {
+		    //alert(reader.result);
+		    var newHTML = document.open("text/html", "replace"); 
+            newHTML.write(reader.result); 
             newHTML.close(); 
+		}
+		reader.readAsText(evt.data);
+	  
 	  ws.close();
 	};
 
