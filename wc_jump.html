@@ -154,7 +154,7 @@ function replace_all_rel_by_abs(html){
     function by2(match, group1, group2, group3){
         /*Note that this function can also be used to remove links:
          * return group1 + "javascript://" + group3; */
-         console.log('by2 match=='+group2);
+
         group2 = group2.replace(slashRE, "/").replace(dotRE, ".");
         return group1 + rel_to_abs(group2) + group3;
     }
@@ -207,7 +207,7 @@ function replace_all_rel_by_abs(html){
             end = typeof end == "string" ? end : "";
             var at3 = new RegExp("("+front+")([^\"'][^"+delimiter+"]*" + (end?"?)("+end+")":")()"), flags);
             handleAttr = function(match, g1, g2){
-            	console.log('handleAttr match');
+            	console.log('handleAttr1 match');
             	return g1+g2.replace(at1, by2).replace(at2, by2).replace(at3, by2)
             };
         } else {
