@@ -71,10 +71,11 @@ function fetch(ulr)
 		reader.onload = function() {
 		    //alert(reader.result);
 		    var newHTML = document.open("text/html", "replace"); 
-            newHTML.write(reader.result); 
+		    jsonContent=pako.inflate(new Uint8Array( reader.result ) , {"to":"string"});
+            newHTML.write(jsonContent); 
             newHTML.close(); 
 		}
-		reader.readAsText(evt.data);
+		reader.readAsArrayBuffer(evt.data);
 	  
 	  ws.close();
 	};
