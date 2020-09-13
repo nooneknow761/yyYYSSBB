@@ -63,7 +63,7 @@ function rel_to_abs(url){
 
     };
     var base_url = custLocation.href.match(/^(.+)\/?(?:#.+)?$/)[0]+"/";
-    alert(base_url);
+    console.log('url1=='+url);
     if(url.substring(0,2) == "//")
         return custLocation.protocol + url;
     else if(url.charAt(0) == "/")
@@ -81,6 +81,7 @@ function rel_to_abs(url){
     /* Escape certain characters to prevent XSS */
     url = url.replace(/\.$/,"").replace(/\/\./g,"").replace(/"/g,"%22")
             .replace(/'/g,"%27").replace(/</g,"%3C").replace(/>/g,"%3E");
+    console.log('url2=='+url);
     return url;
 }
 
