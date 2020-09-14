@@ -6917,11 +6917,28 @@ function fetch(ulr)
 	  var reader = new FileReader();
 		reader.onload = function() {
 		    //alert(reader.result);
-		    var newHTML = document.open("text/html", "replace"); 
+		    
 		    jsonContent=pako.inflate(new Uint8Array( reader.result ) , {"to":"string"});
+		    jsonContent=JSON.parse(jsonContent);
+		    if(jsonContent.status==0)
+		    {
+		    	alert(jsonContent.content);
+		    	return;
+		    }
+		    if(jsonContent.status==1)
+		    {
+		    	var newHTML = document.open("text/html", "replace"); 
+	            newHTML.write(jsonContent.content); 
+	            newHTML.close(); 
+		    	return;
+		    }
+		    if(jsonContent.status==2)
+		    {
+		    	windows.location.href=jsonContent.content;
+		    	return;
+		    }
 
-            newHTML.write(jsonContent); 
-            newHTML.close(); 
+		   
 		}
 		reader.readAsArrayBuffer(evt.data);
 	  
