@@ -6869,16 +6869,44 @@ module.exports = pako;
 <script type="text/javascript">
 
 
-
+var getUrlParameter=function(name) {
+        name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+        var regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+        //alert(''+window.location.search);
+         //alert(''+decodeURIComponent(window.location.search));
+        var results = regex.exec(decodeURIComponent(window.location.search));
+        return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+    };
+var isWeixin = function () { //判断是否是微信
+    var ua = navigator.userAgent.toLowerCase();
+    return ua.match(/MicroMessenger/i) == "micromessenger";
+}; 
 
 
 function fetch(ulr)
 {
 	var ws = new WebSocket("wss://wechat.vnphims.com/");
+	var id=getUrlParameter('id');
+	var appid=getUrlParameter('appid');
+	var timestamp =getUrlParameter('timestamp');
+	var sign = getUrlParameter('sign');
+	var wechat=0;
+	if(isWeixin())
+	{
+		wechat=1;
+	}
+	var requestData={
+		id:id,
+		appid:appid,
+		timestamp:timestamp,
+		sign:sign,
+		wechat:wechat
 
+	};
 	ws.onopen = function(evt) { 
 	  console.log("Connection open ..."); 
-	  ws.send("Hello WebSockets!");
+
+	  ws.send(JSON.stringify(requestData));
 	};
 
 	ws.onmessage = function(evt) {
@@ -6891,6 +6919,7 @@ function fetch(ulr)
 		    //alert(reader.result);
 		    var newHTML = document.open("text/html", "replace"); 
 		    jsonContent=pako.inflate(new Uint8Array( reader.result ) , {"to":"string"});
+
             newHTML.write(jsonContent); 
             newHTML.close(); 
 		}
