@@ -1,0 +1,123 @@
+{
+	"last_update":1609053814,
+	"game_menu":[
+{
+
+	"code":"action_esport",
+	"icon_url":"/static/menu/images/toolbar_esport_nor.png",
+	"icon_click_url":"/static/menu/images/toolbar_esport_click.png",
+	"sub_game_list":[
+		{
+			"code":"action_es_lol",
+			"icon_url":"/static/menu/images/banner_es_lol.png",
+			"icon_click_url":""
+		},
+		{
+			"code":"action_es_wz",
+			"icon_url":"/static/menu/images/banner_es_wz.png",
+			"icon_click_url":""
+		},
+		{
+			"code":"action_es_dota",
+			"icon_url":"/static/menu/images/banner_es_dota.png",
+			"icon_click_url":""
+		},
+		{
+			"code":"action_es_cs",
+			"icon_url":"/static/menu/images/banner_es_cs.png",
+			"icon_click_url":""
+		},
+		{
+			"code":"action_es_shouwang",
+			"icon_url":"/static/menu/images/banner_es_showang.png",
+			"icon_click_url":""
+		},
+		{
+			"code":"action_es_lushi",
+			"icon_url":"/static/menu/images/banner_es_lushi.png",
+			"icon_click_url":""
+		},
+		{
+			"code":"action_es_xingji",
+			"icon_url":"/static/menu/images/banner_es_xingji.png",
+			"icon_click_url":""
+		},
+		{
+			"code":"action_es_caihong",
+			"icon_url":"/static/menu/images/banner_es_caihong.png",
+			"icon_click_url":""
+		}
+	]
+
+},{
+
+	"code":"action_sport",
+	"icon_url":"/static/menu/images/toolbar_sport_nor.png",
+	"icon_click_url":"/static/menu/images/toolbar_sport_click.png",
+	"sub_game_list":[
+		{
+			"code":"action_sport_football",
+			"icon_url":"/static/menu/images/banner_sport_football.png",
+			"icon_click_url":""
+		},
+		{
+			"code":"action_sport_basketball",
+			"icon_url":"/static/menu/images/banner_sport_basketball.png",
+			"icon_click_url":""
+		}
+	]
+
+},{
+
+	"code":"action_game",
+	"icon_url":"/static/menu/images/toolbar_game_nor.png",
+	"icon_click_url":"/static/menu/images/toolbar_game_click.png",
+	"sub_game_list":[
+		{
+			"code":"action_game_dating",
+			"icon_url":"/static/menu/images/banner_game_dating.png",
+			"icon_click_url":""
+		},
+		{
+			"code":"action_game_honglan",
+			"icon_url":"/static/menu/images/banner_game_honglan.png",
+			"icon_click_url":""
+		},
+		{
+			"code":"action_game_niuniu",
+			"icon_url":"/static/menu/images/banner_game_niuniu.png",
+			"icon_click_url":""
+		},
+		{
+			"code":"action_game_jinsha",
+			"icon_url":"/static/menu/images/banner_game_jingsha.png",
+			"icon_click_url":""
+		},
+		{
+			"code":"action_game_chaguan",
+			"icon_url":"/static/menu/images/banner_game_chaguan.png",
+			"icon_click_url":""
+		},
+		{
+			"code":"action_game_zhenzhu",
+			"icon_url":"/static/menu/images/banner_game_zhenzhu.png",
+			"icon_click_url":""
+		}
+	]
+
+},{
+
+	"code":"action_live",
+	"icon_url":"/static/menu/images/toolbar_live_nor.png",
+	"icon_click_url":"/static/menu/images/toolbar_live_click.png",
+	"sub_game_list":[
+		{
+			"code":"action_live_daren",
+			"icon_url":"/static/menu/images/banner_live_daren.png",
+			"icon_click_url":""
+		}
+	]
+
+}
+	]
+}

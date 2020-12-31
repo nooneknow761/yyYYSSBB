@@ -1,0 +1,3072 @@
+{
+    "code": 200,
+ 
+    "result": [
+      {
+        "game_id": 19334,
+        "tournament_id": 37321906,
+        "tournament_logo": "",
+        "status": 3,
+        "id": 37322004,
+        "enable_parlay": 0,
+        "game_name": "绝地求生",
+        "match_name": "斗鱼黄金大奖赛 - D VS E - 第三回合",
+        "match_short_name": "Douyu PUBG Gold League D VS E Round 3",
+        "start_time": "2020-12-29 18:30:00",
+        "end_time": "2020-12-29 20:30:00",
+        "round": "bo1",
+        "tournament_name": "斗鱼黄金大奖赛 - D VS E - 第三回合",
+        "tournament_short_name": "Douyu PUBG Gold League D VS E Round 3",
+        "team": [
+          {
+            "team_id": 37228937,
+            "team_logo": "/file/1ff39743d91d8ade1e5f9527737d3302.png",
+            "team_name": "For The Glory",
+            "team_short_name": "For The Glory",
+            "score": {},
+            "pos": 16,
+            "id": 37322020,
+            "match_id": 37322004
+          },
+          {
+            "team_id": 19789516,
+            "team_logo": "/file/4d998036a267b3147652118cdacc24d3.png",
+            "team_name": "Gamers Forever Young",
+            "team_short_name": "Gamers Forever Young",
+            "score": {},
+            "pos": 15,
+            "id": 37322019,
+            "match_id": 37322004
+          },
+          {
+            "team_id": 19015186,
+            "team_logo": "/file/8c86663ae5c3739c2213e4c098b1b562.png",
+            "team_name": "QM Gaming",
+            "team_short_name": "QuanMing Gaming",
+            "score": {},
+            "pos": 14,
+            "id": 37322018,
+            "match_id": 37322004
+          },
+          {
+            "team_id": 37228942,
+            "team_logo": "/file/5c7b6b7f86801da7b1e9f6663fbe43b2.png",
+            "team_name": "Soy Milk Squad",
+            "team_short_name": "Soy Milk Squad",
+            "score": {},
+            "pos": 13,
+            "id": 37322017,
+            "match_id": 37322004
+          },
+          {
+            "team_id": 37320669,
+            "team_logo": "/file/4d998036a267b3147652118cdacc24d3.png",
+            "team_name": "Game of Theones",
+            "team_short_name": "Game of Theones",
+            "score": {},
+            "pos": 12,
+            "id": 37322016,
+            "match_id": 37322004
+          },
+          {
+            "team_id": 37228933,
+            "team_logo": "/file/f58a4dfba874771e8b018d8c0afd4512.png",
+            "team_name": "COC",
+            "team_short_name": "Champion of Competition",
+            "score": {},
+            "pos": 11,
+            "id": 37322015,
+            "match_id": 37322004
+          },
+          {
+            "team_id": 37228939,
+            "team_logo": "/file/ee3db0764ec4926a068d0e8f52f255d4.png",
+            "team_name": "KaiXin Esports",
+            "team_short_name": "KaiXin Esports",
+            "score": {},
+            "pos": 10,
+            "id": 37322014,
+            "match_id": 37322004
+          },
+          {
+            "team_id": 37228932,
+            "team_logo": "/file/12a05ae438f40f2798411efe1e8f568e.png",
+            "team_name": "CTG",
+            "team_short_name": "Change The Game",
+            "score": {},
+            "pos": 9,
+            "id": 37322013,
+            "match_id": 37322004
+          },
+          {
+            "team_id": 19940223,
+            "team_logo": "/file/9a6d45eb97ba82c3428c5049bb7a6183.png",
+            "team_name": "SMG",
+            "team_short_name": "Still Moving Under Gunfire",
+            "score": {},
+            "pos": 8,
+            "id": 37322012,
+            "match_id": 37322004
+          },
+          {
+            "team_id": 37228392,
+            "team_logo": "/file/02a7f7a103a9d1d07c334caa6dfd853e.png",
+            "team_name": "TSG",
+            "team_short_name": "Triumphant Song Gaming",
+            "score": {},
+            "pos": 7,
+            "id": 37322011,
+            "match_id": 37322004
+          },
+          {
+            "team_id": 20131431,
+            "team_logo": "/file/33b64c6483899763f72746d1d15b54f4.png",
+            "team_name": "LGE",
+            "team_short_name": "LinGan e-Sports",
+            "score": {},
+            "pos": 6,
+            "id": 37322010,
+            "match_id": 37322004
+          },
+          {
+            "team_id": 19789521,
+            "team_logo": "/file/42e07caa816fce0cf06b56143dd82559.png",
+            "team_name": "IFTY",
+            "team_short_name": "Infantry",
+            "score": {},
+            "pos": 5,
+            "id": 37322009,
+            "match_id": 37322004
+          },
+          {
+            "team_id": 20131650,
+            "team_logo": "/file/dbb9e54ee73134db6240713431081d25.png",
+            "team_name": "LYG",
+            "team_short_name": "Lao Yue Gou",
+            "score": {},
+            "pos": 4,
+            "id": 37322008,
+            "match_id": 37322004
+          },
+          {
+            "team_id": 1710275,
+            "team_logo": "/file/ac7b35cddbbf9ed11f4cb5659c66f9fc.png",
+            "team_name": "4AM",
+            "team_short_name": "Four Angry Men",
+            "score": {},
+            "pos": 3,
+            "id": 37322007,
+            "match_id": 37322004
+          },
+          {
+            "team_id": 37228719,
+            "team_logo": "/file/2039d06d430f9c04018ae01a9540309d.png",
+            "team_name": "MCG",
+            "team_short_name": "MultiCircle Gaming",
+            "score": {},
+            "pos": 2,
+            "id": 37322006,
+            "match_id": 37322004
+          },
+          {
+            "team_id": 19015270,
+            "team_logo": "/file/7ce97001fa3458e459f83e64216afa84.png",
+            "team_name": "天霸",
+            "team_short_name": "Tianba",
+            "score": {},
+            "pos": 1,
+            "id": 37322005,
+            "match_id": 37322004
+          }
+        ],
+        "play_count": "1"
+      },
+      {
+        "game_id": 19334,
+        "tournament_id": 37321874,
+        "tournament_logo": "",
+        "status": 3,
+        "id": 37321940,
+        "enable_parlay": 1,
+        "game_name": "绝地求生",
+        "match_name": "天霸 - VS - LYG",
+        "match_short_name": "Tianba - VS - Lao Yue Gou",
+        "start_time": "2020-12-29 18:30:00",
+        "end_time": "2020-12-29 20:30:00",
+        "round": "bo1",
+        "tournament_name": "斗鱼黄金大奖赛 - D VS E - 第三回合总积分",
+        "tournament_short_name": "Douyu PUBG Gold League D VS E Round 3 Total Points",
+        "team": [
+          {
+            "team_id": 20131650,
+            "team_logo": "/file/dbb9e54ee73134db6240713431081d25.png",
+            "team_name": "LYG",
+            "team_short_name": "Lao Yue Gou",
+            "score": {
+              "r1": 0,
+              "total": 0
+            },
+            "pos": 2,
+            "id": 37321942,
+            "match_id": 37321940
+          },
+          {
+            "team_id": 19015270,
+            "team_logo": "/file/7ce97001fa3458e459f83e64216afa84.png",
+            "team_name": "天霸",
+            "team_short_name": "Tianba",
+            "score": {
+              "r1": 1,
+              "total": 1
+            },
+            "pos": 1,
+            "id": 37321941,
+            "match_id": 37321940
+          }
+        ],
+        "odds": [
+          {
+            "odds_group_id": 28047154,
+            "value": "",
+            "win": 1,
+            "status": 5,
+            "bet_limit": [
+              10,
+              1000
+            ],
+            "last_update": "1609240473",
+            "match_stage": "final",
+            "match_name": "天霸 - VS - LYG",
+            "group_name": "第三回合 总积分获胜者",
+            "group_short_name": "Round 3 - Total Points Winner",
+            "id": 39977899,
+            "odds_id": 39977899,
+            "team_id": 19015270,
+            "name": "天霸",
+            "match_id": 37321940,
+            "odds": "1.65",
+            "tag": "win"
+          },
+          {
+            "odds_group_id": 28047154,
+            "value": "",
+            "win": 0,
+            "status": 5,
+            "bet_limit": [
+              10,
+              1000
+            ],
+            "last_update": "1609240473",
+            "match_stage": "final",
+            "match_name": "天霸 - VS - LYG",
+            "group_name": "第三回合 总积分获胜者",
+            "group_short_name": "Round 3 - Total Points Winner",
+            "id": 39977900,
+            "odds_id": 39977900,
+            "team_id": 20131650,
+            "name": "LYG",
+            "match_id": 37321940,
+            "odds": "2.16",
+            "tag": "win"
+          }
+        ],
+        "play_count": "1"
+      },
+      {
+        "game_id": 19334,
+        "tournament_id": 37321874,
+        "tournament_logo": "",
+        "status": 3,
+        "id": 37321937,
+        "enable_parlay": 1,
+        "game_name": "绝地求生",
+        "match_name": "SMG - VS - COC",
+        "match_short_name": "Still Moving Under Gunfire - VS - Champion of Competition",
+        "start_time": "2020-12-29 18:30:00",
+        "end_time": "2020-12-29 20:30:00",
+        "round": "bo1",
+        "tournament_name": "斗鱼黄金大奖赛 - D VS E - 第三回合总积分",
+        "tournament_short_name": "Douyu PUBG Gold League D VS E Round 3 Total Points",
+        "team": [
+          {
+            "team_id": 37228933,
+            "team_logo": "/file/f58a4dfba874771e8b018d8c0afd4512.png",
+            "team_name": "COC",
+            "team_short_name": "Champion of Competition",
+            "score": {
+              "r1": 0,
+              "total": 0
+            },
+            "pos": 2,
+            "id": 37321939,
+            "match_id": 37321937
+          },
+          {
+            "team_id": 19940223,
+            "team_logo": "/file/9a6d45eb97ba82c3428c5049bb7a6183.png",
+            "team_name": "SMG",
+            "team_short_name": "Still Moving Under Gunfire",
+            "score": {
+              "r1": 1,
+              "total": 1
+            },
+            "pos": 1,
+            "id": 37321938,
+            "match_id": 37321937
+          }
+        ],
+        "odds": [
+          {
+            "odds_group_id": 28047154,
+            "value": "",
+            "win": 1,
+            "status": 5,
+            "bet_limit": [
+              10,
+              1000
+            ],
+            "last_update": "1609240592",
+            "match_stage": "final",
+            "match_name": "SMG - VS - COC",
+            "group_name": "第三回合 总积分获胜者",
+            "group_short_name": "Round 3 - Total Points Winner",
+            "id": 39977901,
+            "odds_id": 39977901,
+            "team_id": 19940223,
+            "name": "SMG",
+            "match_id": 37321937,
+            "odds": "1.67",
+            "tag": "win"
+          },
+          {
+            "odds_group_id": 28047154,
+            "value": "",
+            "win": 0,
+            "status": 5,
+            "bet_limit": [
+              10,
+              1000
+            ],
+            "last_update": "1609240592",
+            "match_stage": "final",
+            "match_name": "SMG - VS - COC",
+            "group_name": "第三回合 总积分获胜者",
+            "group_short_name": "Round 3 - Total Points Winner",
+            "id": 39977902,
+            "odds_id": 39977902,
+            "team_id": 37228933,
+            "name": "COC",
+            "match_id": 37321937,
+            "odds": "2.12",
+            "tag": "win"
+          }
+        ],
+        "play_count": "1"
+      },
+      {
+        "game_id": 19334,
+        "tournament_id": 37321874,
+        "tournament_logo": "",
+        "status": 3,
+        "id": 37321934,
+        "enable_parlay": 1,
+        "game_name": "绝地求生",
+        "match_name": "MCG - VS - 4AM",
+        "match_short_name": "MultiCircle Gaming - VS - Four Angry Men",
+        "start_time": "2020-12-29 18:30:00",
+        "end_time": "2020-12-29 20:30:00",
+        "round": "bo1",
+        "tournament_name": "斗鱼黄金大奖赛 - D VS E - 第三回合总积分",
+        "tournament_short_name": "Douyu PUBG Gold League D VS E Round 3 Total Points",
+        "team": [
+          {
+            "team_id": 1710275,
+            "team_logo": "/file/ac7b35cddbbf9ed11f4cb5659c66f9fc.png",
+            "team_name": "4AM",
+            "team_short_name": "Four Angry Men",
+            "score": {
+              "r1": 0,
+              "total": 0
+            },
+            "pos": 2,
+            "id": 37321936,
+            "match_id": 37321934
+          },
+          {
+            "team_id": 37228719,
+            "team_logo": "/file/2039d06d430f9c04018ae01a9540309d.png",
+            "team_name": "MCG",
+            "team_short_name": "MultiCircle Gaming",
+            "score": {
+              "r1": 1,
+              "total": 1
+            },
+            "pos": 1,
+            "id": 37321935,
+            "match_id": 37321934
+          }
+        ],
+        "odds": [
+          {
+            "odds_group_id": 28047154,
+            "value": "",
+            "win": 0,
+            "status": 5,
+            "bet_limit": [
+              10,
+              1000
+            ],
+            "last_update": "1609240524",
+            "match_stage": "final",
+            "match_name": "MCG - VS - 4AM",
+            "group_name": "第三回合 总积分获胜者",
+            "group_short_name": "Round 3 - Total Points Winner",
+            "id": 39977906,
+            "odds_id": 39977906,
+            "team_id": 1710275,
+            "name": "4AM",
+            "match_id": 37321934,
+            "odds": "2.25",
+            "tag": "win"
+          },
+          {
+            "odds_group_id": 28047154,
+            "value": "",
+            "win": 1,
+            "status": 5,
+            "bet_limit": [
+              10,
+              1000
+            ],
+            "last_update": "1609240524",
+            "match_stage": "final",
+            "match_name": "MCG - VS - 4AM",
+            "group_name": "第三回合 总积分获胜者",
+            "group_short_name": "Round 3 - Total Points Winner",
+            "id": 39977905,
+            "odds_id": 39977905,
+            "team_id": 37228719,
+            "name": "MCG",
+            "match_id": 37321934,
+            "odds": "1.60",
+            "tag": "win"
+          }
+        ],
+        "play_count": "1"
+      },
+      {
+        "game_id": 37197927,
+        "tournament_id": 37316427,
+        "tournament_logo": "",
+        "status": 3,
+        "id": 37321895,
+        "enable_parlay": 0,
+        "game_name": "无畏契约",
+        "match_name": "DivisionX Gaming - VS - Team nxl",
+        "match_short_name": "DivisionX Gaming - VS - Team nxl",
+        "start_time": "2020-12-29 18:17:00",
+        "end_time": "2020-12-29 19:32:00",
+        "round": "bo1",
+        "tournament_name": "AE联赛: 征服者",
+        "tournament_short_name": "AE League: Conqueror",
+        "team": [
+          {
+            "team_id": 37299233,
+            "team_logo": "/file/4d998036a267b3147652118cdacc24d3.png",
+            "team_name": "Team nxl",
+            "team_short_name": "Team nxl",
+            "score": {
+              "r1": 1,
+              "total": 1
+            },
+            "pos": 2,
+            "id": 37321897,
+            "match_id": 37321895
+          },
+          {
+            "team_id": 37266015,
+            "team_logo": "/file/2d6fb832304e1cc225dad7ac776a749a.png",
+            "team_name": "DivisionX Gaming",
+            "team_short_name": "DivisionX Gaming",
+            "score": {
+              "r1": 0,
+              "total": 0
+            },
+            "pos": 1,
+            "id": 37321896,
+            "match_id": 37321895
+          }
+        ],
+        "odds": [
+          {
+            "odds_group_id": 16857,
+            "value": "",
+            "win": 0,
+            "status": 5,
+            "bet_limit": [
+              10,
+              2000
+            ],
+            "last_update": "1609238673",
+            "match_stage": "final",
+            "match_name": "DivisionX Gaming - VS - Team nxl",
+            "group_name": "获胜者",
+            "group_short_name": "Winner",
+            "id": 39977569,
+            "odds_id": 39977569,
+            "team_id": 37266015,
+            "name": "DivisionX Gaming",
+            "match_id": 37321895,
+            "odds": "14.29",
+            "tag": "win"
+          },
+          {
+            "odds_group_id": 16857,
+            "value": "",
+            "win": 1,
+            "status": 5,
+            "bet_limit": [
+              10,
+              2000
+            ],
+            "last_update": "1609238673",
+            "match_stage": "final",
+            "match_name": "DivisionX Gaming - VS - Team nxl",
+            "group_name": "获胜者",
+            "group_short_name": "Winner",
+            "id": 39977570,
+            "odds_id": 39977570,
+            "team_id": 37299233,
+            "name": "Team nxl",
+            "match_id": 37321895,
+            "odds": "1.00",
+            "tag": "win"
+          }
+        ],
+        "play_count": "34"
+      },
+      {
+        "game_id": 19334,
+        "tournament_id": 37321905,
+        "tournament_logo": "",
+        "status": 3,
+        "id": 37321987,
+        "enable_parlay": 0,
+        "game_name": "绝地求生",
+        "match_name": "斗鱼黄金大奖赛 - D VS E - 第二回合",
+        "match_short_name": "Douyu PUBG Gold League D VS E Round 2",
+        "start_time": "2020-12-29 17:45:00",
+        "end_time": "2020-12-29 19:45:00",
+        "round": "bo1",
+        "tournament_name": "斗鱼黄金大奖赛 - D VS E - 第二回合",
+        "tournament_short_name": "Douyu PUBG Gold League D VS E Round 2",
+        "team": [
+          {
+            "team_id": 37228937,
+            "team_logo": "/file/1ff39743d91d8ade1e5f9527737d3302.png",
+            "team_name": "For The Glory",
+            "team_short_name": "For The Glory",
+            "score": {},
+            "pos": 16,
+            "id": 37322003,
+            "match_id": 37321987
+          },
+          {
+            "team_id": 19789516,
+            "team_logo": "/file/4d998036a267b3147652118cdacc24d3.png",
+            "team_name": "Gamers Forever Young",
+            "team_short_name": "Gamers Forever Young",
+            "score": {},
+            "pos": 15,
+            "id": 37322002,
+            "match_id": 37321987
+          },
+          {
+            "team_id": 19015186,
+            "team_logo": "/file/8c86663ae5c3739c2213e4c098b1b562.png",
+            "team_name": "QM Gaming",
+            "team_short_name": "QuanMing Gaming",
+            "score": {},
+            "pos": 14,
+            "id": 37322001,
+            "match_id": 37321987
+          },
+          {
+            "team_id": 37228942,
+            "team_logo": "/file/5c7b6b7f86801da7b1e9f6663fbe43b2.png",
+            "team_name": "Soy Milk Squad",
+            "team_short_name": "Soy Milk Squad",
+            "score": {},
+            "pos": 13,
+            "id": 37322000,
+            "match_id": 37321987
+          },
+          {
+            "team_id": 37320669,
+            "team_logo": "/file/4d998036a267b3147652118cdacc24d3.png",
+            "team_name": "Game of Theones",
+            "team_short_name": "Game of Theones",
+            "score": {},
+            "pos": 12,
+            "id": 37321999,
+            "match_id": 37321987
+          },
+          {
+            "team_id": 37228933,
+            "team_logo": "/file/f58a4dfba874771e8b018d8c0afd4512.png",
+            "team_name": "COC",
+            "team_short_name": "Champion of Competition",
+            "score": {},
+            "pos": 11,
+            "id": 37321998,
+            "match_id": 37321987
+          },
+          {
+            "team_id": 37228939,
+            "team_logo": "/file/ee3db0764ec4926a068d0e8f52f255d4.png",
+            "team_name": "KaiXin Esports",
+            "team_short_name": "KaiXin Esports",
+            "score": {},
+            "pos": 10,
+            "id": 37321997,
+            "match_id": 37321987
+          },
+          {
+            "team_id": 37228932,
+            "team_logo": "/file/12a05ae438f40f2798411efe1e8f568e.png",
+            "team_name": "CTG",
+            "team_short_name": "Change The Game",
+            "score": {},
+            "pos": 9,
+            "id": 37321996,
+            "match_id": 37321987
+          },
+          {
+            "team_id": 19940223,
+            "team_logo": "/file/9a6d45eb97ba82c3428c5049bb7a6183.png",
+            "team_name": "SMG",
+            "team_short_name": "Still Moving Under Gunfire",
+            "score": {},
+            "pos": 8,
+            "id": 37321995,
+            "match_id": 37321987
+          },
+          {
+            "team_id": 37228392,
+            "team_logo": "/file/02a7f7a103a9d1d07c334caa6dfd853e.png",
+            "team_name": "TSG",
+            "team_short_name": "Triumphant Song Gaming",
+            "score": {},
+            "pos": 7,
+            "id": 37321994,
+            "match_id": 37321987
+          },
+          {
+            "team_id": 20131431,
+            "team_logo": "/file/33b64c6483899763f72746d1d15b54f4.png",
+            "team_name": "LGE",
+            "team_short_name": "LinGan e-Sports",
+            "score": {},
+            "pos": 6,
+            "id": 37321993,
+            "match_id": 37321987
+          },
+          {
+            "team_id": 19789521,
+            "team_logo": "/file/42e07caa816fce0cf06b56143dd82559.png",
+            "team_name": "IFTY",
+            "team_short_name": "Infantry",
+            "score": {},
+            "pos": 5,
+            "id": 37321992,
+            "match_id": 37321987
+          },
+          {
+            "team_id": 20131650,
+            "team_logo": "/file/dbb9e54ee73134db6240713431081d25.png",
+            "team_name": "LYG",
+            "team_short_name": "Lao Yue Gou",
+            "score": {},
+            "pos": 4,
+            "id": 37321991,
+            "match_id": 37321987
+          },
+          {
+            "team_id": 1710275,
+            "team_logo": "/file/ac7b35cddbbf9ed11f4cb5659c66f9fc.png",
+            "team_name": "4AM",
+            "team_short_name": "Four Angry Men",
+            "score": {},
+            "pos": 3,
+            "id": 37321990,
+            "match_id": 37321987
+          },
+          {
+            "team_id": 37228719,
+            "team_logo": "/file/2039d06d430f9c04018ae01a9540309d.png",
+            "team_name": "MCG",
+            "team_short_name": "MultiCircle Gaming",
+            "score": {},
+            "pos": 2,
+            "id": 37321989,
+            "match_id": 37321987
+          },
+          {
+            "team_id": 19015270,
+            "team_logo": "/file/7ce97001fa3458e459f83e64216afa84.png",
+            "team_name": "天霸",
+            "team_short_name": "Tianba",
+            "score": {},
+            "pos": 1,
+            "id": 37321988,
+            "match_id": 37321987
+          }
+        ],
+        "play_count": "1"
+      },
+      {
+        "game_id": 19334,
+        "tournament_id": 37321873,
+        "tournament_logo": "",
+        "status": 3,
+        "id": 37321931,
+        "enable_parlay": 1,
+        "game_name": "绝地求生",
+        "match_name": "天霸 - VS - LYG",
+        "match_short_name": "Tianba - VS - Lao Yue Gou",
+        "start_time": "2020-12-29 17:45:00",
+        "end_time": "2020-12-29 19:45:00",
+        "round": "bo1",
+        "tournament_name": "斗鱼黄金大奖赛 - D VS E - 第二回合总积分",
+        "tournament_short_name": "Douyu PUBG Gold League D VS E Round 2 Total Points",
+        "team": [
+          {
+            "team_id": 20131650,
+            "team_logo": "/file/dbb9e54ee73134db6240713431081d25.png",
+            "team_name": "LYG",
+            "team_short_name": "Lao Yue Gou",
+            "score": {
+              "r1": 1,
+              "total": 1
+            },
+            "pos": 2,
+            "id": 37321933,
+            "match_id": 37321931
+          },
+          {
+            "team_id": 19015270,
+            "team_logo": "/file/7ce97001fa3458e459f83e64216afa84.png",
+            "team_name": "天霸",
+            "team_short_name": "Tianba",
+            "score": {
+              "r1": 0,
+              "total": 0
+            },
+            "pos": 1,
+            "id": 37321932,
+            "match_id": 37321931
+          }
+        ],
+        "odds": [
+          {
+            "odds_group_id": 28047028,
+            "value": "",
+            "win": 1,
+            "status": 5,
+            "bet_limit": [
+              10,
+              1000
+            ],
+            "last_update": "1609238013",
+            "match_stage": "final",
+            "match_name": "天霸 - VS - LYG",
+            "group_name": "第二回合 总积分获胜者",
+            "group_short_name": "Round 2 - Total Points Winner",
+            "id": 39977898,
+            "odds_id": 39977898,
+            "team_id": 20131650,
+            "name": "LYG",
+            "match_id": 37321931,
+            "odds": "2.07",
+            "tag": "win"
+          },
+          {
+            "odds_group_id": 28047028,
+            "value": "",
+            "win": 0,
+            "status": 5,
+            "bet_limit": [
+              10,
+              1000
+            ],
+            "last_update": "1609238013",
+            "match_stage": "final",
+            "match_name": "天霸 - VS - LYG",
+            "group_name": "第二回合 总积分获胜者",
+            "group_short_name": "Round 2 - Total Points Winner",
+            "id": 39977897,
+            "odds_id": 39977897,
+            "team_id": 19015270,
+            "name": "天霸",
+            "match_id": 37321931,
+            "odds": "1.70",
+            "tag": "win"
+          }
+        ],
+        "play_count": "1"
+      },
+      {
+        "game_id": 19334,
+        "tournament_id": 37321873,
+        "tournament_logo": "",
+        "status": 3,
+        "id": 37321889,
+        "enable_parlay": 1,
+        "game_name": "绝地求生",
+        "match_name": "MCG - VS - 4AM",
+        "match_short_name": "MultiCircle Gaming - VS - Four Angry Men",
+        "start_time": "2020-12-29 17:45:00",
+        "end_time": "2020-12-29 19:45:00",
+        "round": "bo1",
+        "tournament_name": "斗鱼黄金大奖赛 - D VS E - 第二回合总积分",
+        "tournament_short_name": "Douyu PUBG Gold League D VS E Round 2 Total Points",
+        "team": [
+          {
+            "team_id": 1710275,
+            "team_logo": "/file/ac7b35cddbbf9ed11f4cb5659c66f9fc.png",
+            "team_name": "4AM",
+            "team_short_name": "Four Angry Men",
+            "score": {
+              "r1": 0,
+              "total": 0
+            },
+            "pos": 2,
+            "id": 37321891,
+            "match_id": 37321889
+          },
+          {
+            "team_id": 37228719,
+            "team_logo": "/file/2039d06d430f9c04018ae01a9540309d.png",
+            "team_name": "MCG",
+            "team_short_name": "MultiCircle Gaming",
+            "score": {
+              "r1": 1,
+              "total": 1
+            },
+            "pos": 1,
+            "id": 37321890,
+            "match_id": 37321889
+          }
+        ],
+        "odds": [
+          {
+            "odds_group_id": 28047028,
+            "value": "",
+            "win": 0,
+            "status": 5,
+            "bet_limit": [
+              10,
+              1000
+            ],
+            "last_update": "1609237966",
+            "match_stage": "final",
+            "match_name": "MCG - VS - 4AM",
+            "group_name": "第二回合 总积分获胜者",
+            "group_short_name": "Round 2 - Total Points Winner",
+            "id": 39977488,
+            "odds_id": 39977488,
+            "team_id": 1710275,
+            "name": "4AM",
+            "match_id": 37321889,
+            "odds": "1.84",
+            "tag": "win"
+          },
+          {
+            "odds_group_id": 28047028,
+            "value": "",
+            "win": 1,
+            "status": 5,
+            "bet_limit": [
+              10,
+              1000
+            ],
+            "last_update": "1609237966",
+            "match_stage": "final",
+            "match_name": "MCG - VS - 4AM",
+            "group_name": "第二回合 总积分获胜者",
+            "group_short_name": "Round 2 - Total Points Winner",
+            "id": 39977487,
+            "odds_id": 39977487,
+            "team_id": 37228719,
+            "name": "MCG",
+            "match_id": 37321889,
+            "odds": "1.90",
+            "tag": "win"
+          }
+        ],
+        "play_count": "1"
+      },
+      {
+        "game_id": 19334,
+        "tournament_id": 37321873,
+        "tournament_logo": "",
+        "status": 3,
+        "id": 37321886,
+        "enable_parlay": 1,
+        "game_name": "绝地求生",
+        "match_name": "SMG - VS - COC",
+        "match_short_name": "Still Moving Under Gunfire - VS - Champion of Competition",
+        "start_time": "2020-12-29 17:45:00",
+        "end_time": "2020-12-29 19:45:00",
+        "round": "bo1",
+        "tournament_name": "斗鱼黄金大奖赛 - D VS E - 第二回合总积分",
+        "tournament_short_name": "Douyu PUBG Gold League D VS E Round 2 Total Points",
+        "team": [
+          {
+            "team_id": 37228933,
+            "team_logo": "/file/f58a4dfba874771e8b018d8c0afd4512.png",
+            "team_name": "COC",
+            "team_short_name": "Champion of Competition",
+            "score": {
+              "r1": 0,
+              "total": 0
+            },
+            "pos": 2,
+            "id": 37321888,
+            "match_id": 37321886
+          },
+          {
+            "team_id": 19940223,
+            "team_logo": "/file/9a6d45eb97ba82c3428c5049bb7a6183.png",
+            "team_name": "SMG",
+            "team_short_name": "Still Moving Under Gunfire",
+            "score": {
+              "r1": 1,
+              "total": 1
+            },
+            "pos": 1,
+            "id": 37321887,
+            "match_id": 37321886
+          }
+        ],
+        "odds": [
+          {
+            "odds_group_id": 28047028,
+            "value": "",
+            "win": 1,
+            "status": 5,
+            "bet_limit": [
+              10,
+              1000
+            ],
+            "last_update": "1609237913",
+            "match_stage": "final",
+            "match_name": "SMG - VS - COC",
+            "group_name": "第二回合 总积分获胜者",
+            "group_short_name": "Round 2 - Total Points Winner",
+            "id": 39977489,
+            "odds_id": 39977489,
+            "team_id": 19940223,
+            "name": "SMG",
+            "match_id": 37321886,
+            "odds": "1.80",
+            "tag": "win"
+          },
+          {
+            "odds_group_id": 28047028,
+            "value": "",
+            "win": 0,
+            "status": 5,
+            "bet_limit": [
+              10,
+              1000
+            ],
+            "last_update": "1609237913",
+            "match_stage": "final",
+            "match_name": "SMG - VS - COC",
+            "group_name": "第二回合 总积分获胜者",
+            "group_short_name": "Round 2 - Total Points Winner",
+            "id": 39977490,
+            "odds_id": 39977490,
+            "team_id": 37228933,
+            "name": "COC",
+            "match_id": 37321886,
+            "odds": "1.94",
+            "tag": "win"
+          }
+        ],
+        "play_count": "1"
+      },
+      {
+        "game_id": 37197927,
+        "tournament_id": 37316427,
+        "tournament_logo": "",
+        "status": 3,
+        "id": 37321892,
+        "enable_parlay": 0,
+        "game_name": "无畏契约",
+        "match_name": "Team SHIFT - VS - DreamSeller",
+        "match_short_name": "Team SHIFT - VS - DreamSeller",
+        "start_time": "2020-12-29 17:03:00",
+        "end_time": "2020-12-29 19:00:00",
+        "round": "bo1",
+        "tournament_name": "AE联赛: 征服者",
+        "tournament_short_name": "AE League: Conqueror",
+        "team": [
+          {
+            "team_id": 37318316,
+            "team_logo": "/file/72649db852ea36fa97dad2b22e4863d8.png",
+            "team_name": "DreamSeller",
+            "team_short_name": "DreamSeller",
+            "score": {
+              "r1": 0,
+              "total": 0
+            },
+            "pos": 2,
+            "id": 37321894,
+            "match_id": 37321892
+          },
+          {
+            "team_id": 37317578,
+            "team_logo": "/file/92578dff80a8749238b3114fcbb521b4.png",
+            "team_name": "Team SHIFT",
+            "team_short_name": "Team SHIFT",
+            "score": {
+              "r1": 1,
+              "total": 1
+            },
+            "pos": 1,
+            "id": 37321893,
+            "match_id": 37321892
+          }
+        ],
+        "odds": [
+          {
+            "odds_group_id": 16857,
+            "value": "",
+            "win": 1,
+            "status": 5,
+            "bet_limit": [
+              10,
+              3000
+            ],
+            "last_update": "1609235055",
+            "match_stage": "final",
+            "match_name": "Team SHIFT - VS - DreamSeller",
+            "group_name": "获胜者",
+            "group_short_name": "Winner",
+            "id": 39977495,
+            "odds_id": 39977495,
+            "team_id": 37317578,
+            "name": "Team SHIFT",
+            "match_id": 37321892,
+            "odds": "1.35",
+            "tag": "win"
+          },
+          {
+            "odds_group_id": 16857,
+            "value": "",
+            "win": 0,
+            "status": 5,
+            "bet_limit": [
+              10,
+              3000
+            ],
+            "last_update": "1609235055",
+            "match_stage": "final",
+            "match_name": "Team SHIFT - VS - DreamSeller",
+            "group_name": "获胜者",
+            "group_short_name": "Winner",
+            "id": 39977496,
+            "odds_id": 39977496,
+            "team_id": 37318316,
+            "name": "DreamSeller",
+            "match_id": 37321892,
+            "odds": "3.04",
+            "tag": "win"
+          }
+        ],
+        "play_count": "34"
+      },
+      {
+        "game_id": 19334,
+        "tournament_id": 37321904,
+        "tournament_logo": "",
+        "status": 3,
+        "id": 37321970,
+        "enable_parlay": 0,
+        "game_name": "绝地求生",
+        "match_name": "斗鱼黄金大奖赛 - D VS E - 第一回合",
+        "match_short_name": "Douyu PUBG Gold League D VS E Round 1",
+        "start_time": "2020-12-29 17:00:00",
+        "end_time": "2020-12-29 19:00:00",
+        "round": "bo1",
+        "tournament_name": "斗鱼黄金大奖赛 - D VS E - 第一回合",
+        "tournament_short_name": "Douyu PUBG Gold League D VS E Round 1",
+        "team": [
+          {
+            "team_id": 37228937,
+            "team_logo": "/file/1ff39743d91d8ade1e5f9527737d3302.png",
+            "team_name": "For The Glory",
+            "team_short_name": "For The Glory",
+            "score": {},
+            "pos": 16,
+            "id": 37321986,
+            "match_id": 37321970
+          },
+          {
+            "team_id": 19789516,
+            "team_logo": "/file/4d998036a267b3147652118cdacc24d3.png",
+            "team_name": "Gamers Forever Young",
+            "team_short_name": "Gamers Forever Young",
+            "score": {},
+            "pos": 15,
+            "id": 37321985,
+            "match_id": 37321970
+          },
+          {
+            "team_id": 19015186,
+            "team_logo": "/file/8c86663ae5c3739c2213e4c098b1b562.png",
+            "team_name": "QM Gaming",
+            "team_short_name": "QuanMing Gaming",
+            "score": {},
+            "pos": 14,
+            "id": 37321984,
+            "match_id": 37321970
+          },
+          {
+            "team_id": 37228942,
+            "team_logo": "/file/5c7b6b7f86801da7b1e9f6663fbe43b2.png",
+            "team_name": "Soy Milk Squad",
+            "team_short_name": "Soy Milk Squad",
+            "score": {},
+            "pos": 13,
+            "id": 37321983,
+            "match_id": 37321970
+          },
+          {
+            "team_id": 37320669,
+            "team_logo": "/file/4d998036a267b3147652118cdacc24d3.png",
+            "team_name": "Game of Theones",
+            "team_short_name": "Game of Theones",
+            "score": {},
+            "pos": 12,
+            "id": 37321982,
+            "match_id": 37321970
+          },
+          {
+            "team_id": 37228933,
+            "team_logo": "/file/f58a4dfba874771e8b018d8c0afd4512.png",
+            "team_name": "COC",
+            "team_short_name": "Champion of Competition",
+            "score": {},
+            "pos": 11,
+            "id": 37321981,
+            "match_id": 37321970
+          },
+          {
+            "team_id": 37228939,
+            "team_logo": "/file/ee3db0764ec4926a068d0e8f52f255d4.png",
+            "team_name": "KaiXin Esports",
+            "team_short_name": "KaiXin Esports",
+            "score": {},
+            "pos": 10,
+            "id": 37321980,
+            "match_id": 37321970
+          },
+          {
+            "team_id": 37228932,
+            "team_logo": "/file/12a05ae438f40f2798411efe1e8f568e.png",
+            "team_name": "CTG",
+            "team_short_name": "Change The Game",
+            "score": {},
+            "pos": 9,
+            "id": 37321979,
+            "match_id": 37321970
+          },
+          {
+            "team_id": 19940223,
+            "team_logo": "/file/9a6d45eb97ba82c3428c5049bb7a6183.png",
+            "team_name": "SMG",
+            "team_short_name": "Still Moving Under Gunfire",
+            "score": {},
+            "pos": 8,
+            "id": 37321978,
+            "match_id": 37321970
+          },
+          {
+            "team_id": 37228392,
+            "team_logo": "/file/02a7f7a103a9d1d07c334caa6dfd853e.png",
+            "team_name": "TSG",
+            "team_short_name": "Triumphant Song Gaming",
+            "score": {},
+            "pos": 7,
+            "id": 37321977,
+            "match_id": 37321970
+          },
+          {
+            "team_id": 20131431,
+            "team_logo": "/file/33b64c6483899763f72746d1d15b54f4.png",
+            "team_name": "LGE",
+            "team_short_name": "LinGan e-Sports",
+            "score": {},
+            "pos": 6,
+            "id": 37321976,
+            "match_id": 37321970
+          },
+          {
+            "team_id": 19789521,
+            "team_logo": "/file/42e07caa816fce0cf06b56143dd82559.png",
+            "team_name": "IFTY",
+            "team_short_name": "Infantry",
+            "score": {},
+            "pos": 5,
+            "id": 37321975,
+            "match_id": 37321970
+          },
+          {
+            "team_id": 20131650,
+            "team_logo": "/file/dbb9e54ee73134db6240713431081d25.png",
+            "team_name": "LYG",
+            "team_short_name": "Lao Yue Gou",
+            "score": {},
+            "pos": 4,
+            "id": 37321974,
+            "match_id": 37321970
+          },
+          {
+            "team_id": 1710275,
+            "team_logo": "/file/ac7b35cddbbf9ed11f4cb5659c66f9fc.png",
+            "team_name": "4AM",
+            "team_short_name": "Four Angry Men",
+            "score": {},
+            "pos": 3,
+            "id": 37321973,
+            "match_id": 37321970
+          },
+          {
+            "team_id": 37228719,
+            "team_logo": "/file/2039d06d430f9c04018ae01a9540309d.png",
+            "team_name": "MCG",
+            "team_short_name": "MultiCircle Gaming",
+            "score": {},
+            "pos": 2,
+            "id": 37321972,
+            "match_id": 37321970
+          },
+          {
+            "team_id": 19015270,
+            "team_logo": "/file/7ce97001fa3458e459f83e64216afa84.png",
+            "team_name": "天霸",
+            "team_short_name": "Tianba",
+            "score": {},
+            "pos": 1,
+            "id": 37321971,
+            "match_id": 37321970
+          }
+        ],
+        "play_count": "1"
+      },
+      {
+        "game_id": 19334,
+        "tournament_id": 37321872,
+        "tournament_logo": "",
+        "status": 3,
+        "id": 37321928,
+        "enable_parlay": 1,
+        "game_name": "绝地求生",
+        "match_name": "天霸 - VS - LYG",
+        "match_short_name": "Tianba - VS - Lao Yue Gou",
+        "start_time": "2020-12-29 17:00:00",
+        "end_time": "2020-12-29 19:00:00",
+        "round": "bo1",
+        "tournament_name": "斗鱼黄金大奖赛 - D VS E - 第一回合总积分",
+        "tournament_short_name": "Douyu PUBG Gold League D VS E Round 1 Total Points",
+        "team": [
+          {
+            "team_id": 20131650,
+            "team_logo": "/file/dbb9e54ee73134db6240713431081d25.png",
+            "team_name": "LYG",
+            "team_short_name": "Lao Yue Gou",
+            "score": {
+              "r1": 1,
+              "total": 1
+            },
+            "pos": 2,
+            "id": 37321930,
+            "match_id": 37321928
+          },
+          {
+            "team_id": 19015270,
+            "team_logo": "/file/7ce97001fa3458e459f83e64216afa84.png",
+            "team_name": "天霸",
+            "team_short_name": "Tianba",
+            "score": {
+              "r1": 0,
+              "total": 0
+            },
+            "pos": 1,
+            "id": 37321929,
+            "match_id": 37321928
+          }
+        ],
+        "odds": [
+          {
+            "odds_group_id": 28046931,
+            "value": "",
+            "win": 1,
+            "status": 5,
+            "bet_limit": [
+              10,
+              1000
+            ],
+            "last_update": "1609235300",
+            "match_stage": "final",
+            "match_name": "天霸 - VS - LYG",
+            "group_name": "第一回合 总积分获胜者",
+            "group_short_name": "Round 1 - Total Points Winner",
+            "id": 39977894,
+            "odds_id": 39977894,
+            "team_id": 20131650,
+            "name": "LYG",
+            "match_id": 37321928,
+            "odds": "2.35",
+            "tag": "win"
+          },
+          {
+            "odds_group_id": 28046931,
+            "value": "",
+            "win": 0,
+            "status": 5,
+            "bet_limit": [
+              10,
+              1000
+            ],
+            "last_update": "1609235300",
+            "match_stage": "final",
+            "match_name": "天霸 - VS - LYG",
+            "group_name": "第一回合 总积分获胜者",
+            "group_short_name": "Round 1 - Total Points Winner",
+            "id": 39977893,
+            "odds_id": 39977893,
+            "team_id": 19015270,
+            "name": "天霸",
+            "match_id": 37321928,
+            "odds": "1.55",
+            "tag": "win"
+          }
+        ],
+        "play_count": "1"
+      },
+      {
+        "game_id": 19334,
+        "tournament_id": 37321872,
+        "tournament_logo": "",
+        "status": 3,
+        "id": 37321883,
+        "enable_parlay": 1,
+        "game_name": "绝地求生",
+        "match_name": "SMG - VS - COC",
+        "match_short_name": "Still Moving Under Gunfire - VS - Champion of Competition",
+        "start_time": "2020-12-29 17:00:00",
+        "end_time": "2020-12-29 19:00:00",
+        "round": "bo1",
+        "tournament_name": "斗鱼黄金大奖赛 - D VS E - 第一回合总积分",
+        "tournament_short_name": "Douyu PUBG Gold League D VS E Round 1 Total Points",
+        "team": [
+          {
+            "team_id": 37228933,
+            "team_logo": "/file/f58a4dfba874771e8b018d8c0afd4512.png",
+            "team_name": "COC",
+            "team_short_name": "Champion of Competition",
+            "score": {
+              "r1": 1,
+              "total": 1
+            },
+            "pos": 2,
+            "id": 37321885,
+            "match_id": 37321883
+          },
+          {
+            "team_id": 19940223,
+            "team_logo": "/file/9a6d45eb97ba82c3428c5049bb7a6183.png",
+            "team_name": "SMG",
+            "team_short_name": "Still Moving Under Gunfire",
+            "score": {
+              "r1": 0,
+              "total": 0
+            },
+            "pos": 1,
+            "id": 37321884,
+            "match_id": 37321883
+          }
+        ],
+        "odds": [
+          {
+            "odds_group_id": 28046931,
+            "value": "",
+            "win": 0,
+            "status": 5,
+            "bet_limit": [
+              10,
+              1000
+            ],
+            "last_update": "1609235278",
+            "match_stage": "final",
+            "match_name": "SMG - VS - COC",
+            "group_name": "第一回合 总积分获胜者",
+            "group_short_name": "Round 1 - Total Points Winner",
+            "id": 39977479,
+            "odds_id": 39977479,
+            "team_id": 19940223,
+            "name": "SMG",
+            "match_id": 37321883,
+            "odds": "1.59",
+            "tag": "win"
+          },
+          {
+            "odds_group_id": 28046931,
+            "value": "",
+            "win": 1,
+            "status": 5,
+            "bet_limit": [
+              10,
+              1000
+            ],
+            "last_update": "1609235278",
+            "match_stage": "final",
+            "match_name": "SMG - VS - COC",
+            "group_name": "第一回合 总积分获胜者",
+            "group_short_name": "Round 1 - Total Points Winner",
+            "id": 39977480,
+            "odds_id": 39977480,
+            "team_id": 37228933,
+            "name": "COC",
+            "match_id": 37321883,
+            "odds": "2.26",
+            "tag": "win"
+          }
+        ],
+        "play_count": "1"
+      },
+      {
+        "game_id": 19334,
+        "tournament_id": 37321872,
+        "tournament_logo": "",
+        "status": 3,
+        "id": 37321880,
+        "enable_parlay": 1,
+        "game_name": "绝地求生",
+        "match_name": "MCG - VS - 4AM",
+        "match_short_name": "MultiCircle Gaming - VS - Four Angry Men",
+        "start_time": "2020-12-29 17:00:00",
+        "end_time": "2020-12-29 19:00:00",
+        "round": "bo1",
+        "tournament_name": "斗鱼黄金大奖赛 - D VS E - 第一回合总积分",
+        "tournament_short_name": "Douyu PUBG Gold League D VS E Round 1 Total Points",
+        "team": [
+          {
+            "team_id": 1710275,
+            "team_logo": "/file/ac7b35cddbbf9ed11f4cb5659c66f9fc.png",
+            "team_name": "4AM",
+            "team_short_name": "Four Angry Men",
+            "score": {},
+            "pos": 2,
+            "id": 37321882,
+            "match_id": 37321880
+          },
+          {
+            "team_id": 37228719,
+            "team_logo": "/file/2039d06d430f9c04018ae01a9540309d.png",
+            "team_name": "MCG",
+            "team_short_name": "MultiCircle Gaming",
+            "score": {},
+            "pos": 1,
+            "id": 37321881,
+            "match_id": 37321880
+          }
+        ],
+        "odds": [
+          {
+            "odds_group_id": 28046931,
+            "value": "",
+            "win": -1,
+            "status": 99,
+            "bet_limit": [
+              10,
+              1000
+            ],
+            "last_update": "1609232511",
+            "match_stage": "final",
+            "match_name": "MCG - VS - 4AM",
+            "group_name": "第一回合 总积分获胜者",
+            "group_short_name": "Round 1 - Total Points Winner",
+            "id": 39977481,
+            "odds_id": 39977481,
+            "team_id": 37228719,
+            "name": "MCG",
+            "match_id": 37321880,
+            "odds": "1.99",
+            "tag": "win"
+          },
+          {
+            "odds_group_id": 28046931,
+            "value": "",
+            "win": -1,
+            "status": 99,
+            "bet_limit": [
+              10,
+              1000
+            ],
+            "last_update": "1609232511",
+            "match_stage": "final",
+            "match_name": "MCG - VS - 4AM",
+            "group_name": "第一回合 总积分获胜者",
+            "group_short_name": "Round 1 - Total Points Winner",
+            "id": 39977482,
+            "odds_id": 39977482,
+            "team_id": 1710275,
+            "name": "4AM",
+            "match_id": 37321880,
+            "odds": "1.76",
+            "tag": "win"
+          }
+        ],
+        "play_count": "1"
+      },
+      {
+        "game_id": 74,
+        "tournament_id": 37319537,
+        "tournament_logo": "",
+        "status": 3,
+        "id": 37321183,
+        "enable_parlay": 0,
+        "game_name": "王者荣耀",
+        "match_name": "重庆QGhappy - VS - 南京Hero久竞",
+        "match_short_name": "QG Happy - VS - Hero JiuJing",
+        "start_time": "2020-12-29 16:49:00",
+        "end_time": "2020-12-29 23:04:00",
+        "round": "bo5",
+        "tournament_name": "绝活杯",
+        "tournament_short_name": "JueHuo Cup",
+        "team": [
+          {
+            "team_id": 30166,
+            "team_logo": "/file/641badb594e3ee71a3cf7847e1687870.png",
+            "team_name": "南京Hero久竞",
+            "team_short_name": "Hero JiuJing",
+            "score": {
+              "r1": 1,
+              "r2": 1,
+              "r3": 0,
+              "r4": 1,
+              "r5": 0,
+              "total": 3
+            },
+            "pos": 2,
+            "id": 37321185,
+            "match_id": 37321183
+          },
+          {
+            "team_id": 16712,
+            "team_logo": "/file/540ba254ca3098263c02b75865e9dcaa.png",
+            "team_name": "重庆QGhappy",
+            "team_short_name": "QG Happy",
+            "score": {
+              "r1": 0,
+              "r2": 0,
+              "r3": 1,
+              "r4": 0,
+              "r5": 0,
+              "total": 1
+            },
+            "pos": 1,
+            "id": 37321184,
+            "match_id": 37321183
+          }
+        ],
+        "odds": [
+          {
+            "odds_group_id": 20573,
+            "value": "",
+            "win": 0,
+            "status": 5,
+            "bet_limit": [
+              10,
+              5000
+            ],
+            "last_update": "1609238213",
+            "match_stage": "final",
+            "match_name": "重庆QGhappy - VS - 南京Hero久竞",
+            "group_name": "获胜者",
+            "group_short_name": "Winner",
+            "id": 39971681,
+            "odds_id": 39971681,
+            "team_id": 16712,
+            "name": "重庆QGhappy",
+            "match_id": 37321183,
+            "odds": "12.52",
+            "tag": "win"
+          },
+          {
+            "odds_group_id": 20573,
+            "value": "",
+            "win": 1,
+            "status": 5,
+            "bet_limit": [
+              10,
+              5000
+            ],
+            "last_update": "1609238213",
+            "match_stage": "final",
+            "match_name": "重庆QGhappy - VS - 南京Hero久竞",
+            "group_name": "获胜者",
+            "group_short_name": "Winner",
+            "id": 39971682,
+            "odds_id": 39971682,
+            "team_id": 30166,
+            "name": "南京Hero久竞",
+            "match_id": 37321183,
+            "odds": "1.01",
+            "tag": "win"
+          }
+        ],
+        "play_count": "104"
+      },
+      {
+        "game_id": 74,
+        "tournament_id": 37319537,
+        "tournament_logo": "",
+        "status": 3,
+        "id": 37321180,
+        "enable_parlay": 0,
+        "game_name": "王者荣耀",
+        "match_name": "杭州LGD大鹅 - VS - 西安WE",
+        "match_short_name": "LGD Goose - VS - Team WE",
+        "start_time": "2020-12-29 15:01:00",
+        "end_time": "2020-12-29 21:16:00",
+        "round": "bo5",
+        "tournament_name": "绝活杯",
+        "tournament_short_name": "JueHuo Cup",
+        "team": [
+          {
+            "team_id": 1104108,
+            "team_logo": "/file/e5dda19b0868c19144564443131083b7.png",
+            "team_name": "西安WE",
+            "team_short_name": "Team WE",
+            "score": {
+              "r1": 0,
+              "r2": 0,
+              "r3": 0,
+              "r4": 0,
+              "r5": 0,
+              "total": 0
+            },
+            "pos": 2,
+            "id": 37321182,
+            "match_id": 37321180
+          },
+          {
+            "team_id": 36795974,
+            "team_logo": "/file/3e55dc60bdb41d973d2a19e4ba632ac5.png",
+            "team_name": "杭州LGD大鹅",
+            "team_short_name": "LGD Goose",
+            "score": {
+              "r1": 1,
+              "r2": 1,
+              "r3": 1,
+              "r4": 0,
+              "r5": 0,
+              "total": 3
+            },
+            "pos": 1,
+            "id": 37321181,
+            "match_id": 37321180
+          }
+        ],
+        "odds": [
+          {
+            "odds_group_id": 20573,
+            "value": "",
+            "win": 1,
+            "status": 5,
+            "bet_limit": [
+              10,
+              5000
+            ],
+            "last_update": "1609231344",
+            "match_stage": "final",
+            "match_name": "杭州LGD大鹅 - VS - 西安WE",
+            "group_name": "获胜者",
+            "group_short_name": "Winner",
+            "id": 39971613,
+            "odds_id": 39971613,
+            "team_id": 36795974,
+            "name": "杭州LGD大鹅",
+            "match_id": 37321180,
+            "odds": "1.05",
+            "tag": "win"
+          },
+          {
+            "odds_group_id": 20573,
+            "value": "",
+            "win": 0,
+            "status": 5,
+            "bet_limit": [
+              10,
+              5000
+            ],
+            "last_update": "1609231344",
+            "match_stage": "final",
+            "match_name": "杭州LGD大鹅 - VS - 西安WE",
+            "group_name": "获胜者",
+            "group_short_name": "Winner",
+            "id": 39971614,
+            "odds_id": 39971614,
+            "team_id": 1104108,
+            "name": "西安WE",
+            "match_id": 37321180,
+            "odds": "8.50",
+            "tag": "win"
+          }
+        ],
+        "play_count": "79"
+      },
+      {
+        "game_id": 71,
+        "tournament_id": 37303441,
+        "tournament_logo": "/file/4d998036a267b3147652118cdacc24d3.png",
+        "status": 3,
+        "id": 37318705,
+        "enable_parlay": 1,
+        "game_name": "星际争霸II",
+        "match_name": "RagnaroK - VS - Dream",
+        "match_short_name": "RagnaroK - VS - Dream",
+        "start_time": "2020-12-29 15:00:00",
+        "end_time": "2020-12-29 21:00:00",
+        "round": "bo3",
+        "tournament_name": "IntoTheAlphaX Trovo Rumble",
+        "tournament_short_name": "IntoTheAlphaX Trovo Rumble",
+        "team": [
+          {
+            "team_id": 9611099,
+            "team_logo": "/file/94a2a30b16fe531cb083843cf5b6b028.png",
+            "team_name": "Dream",
+            "team_short_name": "Dream",
+            "score": {
+              "r1": 1,
+              "r2": 1,
+              "r3": 0,
+              "total": 2
+            },
+            "pos": 2,
+            "id": 37318707,
+            "match_id": 37318705
+          },
+          {
+            "team_id": 456384,
+            "team_logo": "/file/bfd7c7b3ea08e3660769e1c03a957512.png",
+            "team_name": "RagnaroK",
+            "team_short_name": "RagnaroK",
+            "score": {
+              "r1": 0,
+              "r2": 0,
+              "r3": 0,
+              "total": 0
+            },
+            "pos": 1,
+            "id": 37318706,
+            "match_id": 37318705
+          }
+        ],
+        "odds": [
+          {
+            "odds_group_id": 159154,
+            "value": "",
+            "win": 0,
+            "status": 5,
+            "bet_limit": [
+              10,
+              1000
+            ],
+            "last_update": "1609227311",
+            "match_stage": "final",
+            "match_name": "RagnaroK - VS - Dream",
+            "group_name": "获胜者",
+            "group_short_name": "Winner",
+            "id": 39948164,
+            "odds_id": 39948164,
+            "team_id": 456384,
+            "name": "RagnaroK",
+            "match_id": 37318705,
+            "odds": "1.88",
+            "tag": "win"
+          },
+          {
+            "odds_group_id": 159154,
+            "value": "",
+            "win": 1,
+            "status": 5,
+            "bet_limit": [
+              10,
+              1000
+            ],
+            "last_update": "1609227311",
+            "match_stage": "final",
+            "match_name": "RagnaroK - VS - Dream",
+            "group_name": "获胜者",
+            "group_short_name": "Winner",
+            "id": 39948165,
+            "odds_id": 39948165,
+            "team_id": 9611099,
+            "name": "Dream",
+            "match_id": 37318705,
+            "odds": "1.86",
+            "tag": "win"
+          }
+        ],
+        "play_count": "6"
+      },
+      {
+        "game_id": 71,
+        "tournament_id": 37303441,
+        "tournament_logo": "/file/4d998036a267b3147652118cdacc24d3.png",
+        "status": 3,
+        "id": 37318702,
+        "enable_parlay": 1,
+        "game_name": "星际争霸II",
+        "match_name": "Bunny - VS - PartinG",
+        "match_short_name": "Bunny - VS - PartinG",
+        "start_time": "2020-12-29 15:00:00",
+        "end_time": "2020-12-29 21:00:00",
+        "round": "bo3",
+        "tournament_name": "IntoTheAlphaX Trovo Rumble",
+        "tournament_short_name": "IntoTheAlphaX Trovo Rumble",
+        "team": [
+          {
+            "team_id": 365275,
+            "team_logo": "/file/33870e3e5bb184a02c711e6b76986f52.png",
+            "team_name": "PartinG",
+            "team_short_name": "PartinG",
+            "score": {
+              "r1": 0,
+              "r2": 0,
+              "r3": 0,
+              "total": 0
+            },
+            "pos": 2,
+            "id": 37318704,
+            "match_id": 37318702
+          },
+          {
+            "team_id": 365267,
+            "team_logo": "/file/4ead71cd21b7c9721246f243c61715e5.png",
+            "team_name": "Bunny",
+            "team_short_name": "Bunny",
+            "score": {
+              "r1": 1,
+              "r2": 1,
+              "r3": 0,
+              "total": 2
+            },
+            "pos": 1,
+            "id": 37318703,
+            "match_id": 37318702
+          }
+        ],
+        "odds": [
+          {
+            "odds_group_id": 159154,
+            "value": "",
+            "win": 0,
+            "status": 5,
+            "bet_limit": [
+              10,
+              1000
+            ],
+            "last_update": "1609228426",
+            "match_stage": "final",
+            "match_name": "Bunny - VS - PartinG",
+            "group_name": "获胜者",
+            "group_short_name": "Winner",
+            "id": 39948151,
+            "odds_id": 39948151,
+            "team_id": 365275,
+            "name": "PartinG",
+            "match_id": 37318702,
+            "odds": "1.43",
+            "tag": "win"
+          },
+          {
+            "odds_group_id": 159154,
+            "value": "",
+            "win": 1,
+            "status": 5,
+            "bet_limit": [
+              10,
+              1000
+            ],
+            "last_update": "1609228426",
+            "match_stage": "final",
+            "match_name": "Bunny - VS - PartinG",
+            "group_name": "获胜者",
+            "group_short_name": "Winner",
+            "id": 39948150,
+            "odds_id": 39948150,
+            "team_id": 365267,
+            "name": "Bunny",
+            "match_id": 37318702,
+            "odds": "2.70",
+            "tag": "win"
+          }
+        ],
+        "play_count": "6"
+      },
+      {
+        "game_id": 151,
+        "tournament_id": 37307536,
+        "tournament_logo": "",
+        "status": 3,
+        "id": 37321675,
+        "enable_parlay": 0,
+        "game_name": "DOTA2",
+        "match_name": "Calamity King - VS - Team Sirius",
+        "match_short_name": "Calamity King - VS - Team Sirius",
+        "start_time": "2020-12-29 14:09:00",
+        "end_time": "2020-12-29 17:54:00",
+        "round": "bo3",
+        "tournament_name": "WCAA冬季电子竞技挑战赛",
+        "tournament_short_name": "WCAA Winter Challenge Cup",
+        "team": [
+          {
+            "team_id": 11542316,
+            "team_logo": "/file/5dee58ee5433772160098a079755017c.png",
+            "team_name": "Team Sirius",
+            "team_short_name": "Team Sirius",
+            "score": {
+              "r1": 0,
+              "r2": 1,
+              "r3": 1,
+              "total": 2
+            },
+            "pos": 2,
+            "id": 37321677,
+            "match_id": 37321675
+          },
+          {
+            "team_id": 37316145,
+            "team_logo": "/file/48ac1f1bc1361cf14bde972a7c40a7c2.png",
+            "team_name": "Calamity King",
+            "team_short_name": "Calamity King",
+            "score": {
+              "r1": 1,
+              "r2": 0,
+              "r3": 0,
+              "total": 1
+            },
+            "pos": 1,
+            "id": 37321676,
+            "match_id": 37321675
+          }
+        ],
+        "odds": [
+          {
+            "odds_group_id": 16778,
+            "value": "",
+            "win": 1,
+            "status": 5,
+            "bet_limit": [
+              10,
+              3000
+            ],
+            "last_update": "1609233662",
+            "match_stage": "final",
+            "match_name": "Calamity King - VS - Team Sirius",
+            "group_name": "获胜者",
+            "group_short_name": "Winner",
+            "id": 39975202,
+            "odds_id": 39975202,
+            "team_id": 11542316,
+            "name": "Team Sirius",
+            "match_id": 37321675,
+            "odds": "1.01",
+            "tag": "win"
+          },
+          {
+            "odds_group_id": 16778,
+            "value": "",
+            "win": 0,
+            "status": 5,
+            "bet_limit": [
+              10,
+              3000
+            ],
+            "last_update": "1609233662",
+            "match_stage": "final",
+            "match_name": "Calamity King - VS - Team Sirius",
+            "group_name": "获胜者",
+            "group_short_name": "Winner",
+            "id": 39975201,
+            "odds_id": 39975201,
+            "team_id": 37316145,
+            "name": "Calamity King",
+            "match_id": 37321675,
+            "odds": "10.54",
+            "tag": "win"
+          }
+        ],
+        "play_count": "58"
+      },
+      {
+        "game_id": 140,
+        "tournament_id": 37312939,
+        "tournament_logo": "",
+        "status": 3,
+        "id": 37321756,
+        "enable_parlay": 0,
+        "game_name": "CSGO",
+        "match_name": "D13 - VS - w2c",
+        "match_short_name": "D13 - VS - w2c",
+        "start_time": "2020-12-29 14:00:00",
+        "end_time": "2020-12-29 20:00:00",
+        "round": "bo3",
+        "tournament_name": "Funspark RIVALS季前赛",
+        "tournament_short_name": "Funspark RIVALS Pre-season",
+        "team": [
+          {
+            "team_id": 37184735,
+            "team_logo": "/file/2c1bc68e92c4b9f12feb1fe0095bfef1.png",
+            "team_name": "w2c",
+            "team_short_name": "w2c",
+            "score": {
+              "r1": 0,
+              "r2": 0,
+              "r3": 0,
+              "total": 0
+            },
+            "pos": 2,
+            "id": 37321758,
+            "match_id": 37321756
+          },
+          {
+            "team_id": 382365,
+            "team_logo": "/file/6466052e913ab3138957acc26c495232.png",
+            "team_name": "D13",
+            "team_short_name": "D13",
+            "score": {
+              "r1": 1,
+              "r2": 1,
+              "r3": 0,
+              "total": 2
+            },
+            "pos": 1,
+            "id": 37321757,
+            "match_id": 37321756
+          }
+        ],
+        "odds": [
+          {
+            "odds_group_id": 16847,
+            "value": "",
+            "win": 1,
+            "status": 5,
+            "bet_limit": [
+              10,
+              500
+            ],
+            "last_update": "1609226646",
+            "match_stage": "final",
+            "match_name": "D13 - VS - w2c",
+            "group_name": "获胜者",
+            "group_short_name": "Winner",
+            "id": 39975794,
+            "odds_id": 39975794,
+            "team_id": 382365,
+            "name": "D13",
+            "match_id": 37321756,
+            "odds": "1.18",
+            "tag": "win"
+          },
+          {
+            "odds_group_id": 16847,
+            "value": "",
+            "win": 0,
+            "status": 5,
+            "bet_limit": [
+              10,
+              500
+            ],
+            "last_update": "1609226646",
+            "match_stage": "final",
+            "match_name": "D13 - VS - w2c",
+            "group_name": "获胜者",
+            "group_short_name": "Winner",
+            "id": 39975795,
+            "odds_id": 39975795,
+            "team_id": 37184735,
+            "name": "w2c",
+            "match_id": 37321756,
+            "odds": "4.49",
+            "tag": "win"
+          }
+        ],
+        "play_count": "9"
+      },
+      {
+        "game_id": 1072082,
+        "tournament_id": 2773104,
+        "tournament_logo": "/file/61ce1b535159f3b50bf3d32a6bb24723.png",
+        "status": 3,
+        "id": 37320488,
+        "enable_parlay": 0,
+        "game_name": "篮球",
+        "match_name": "北京鸭 - VS - 广州龙狮",
+        "match_short_name": "Beijing Ducks - VS - Guangzhou Longlions",
+        "start_time": "2020-12-29 12:30:00",
+        "end_time": "2020-12-29 20:30:00",
+        "round": "bo4",
+        "tournament_name": "CBA中国男子篮球职业联赛",
+        "tournament_short_name": "CBA",
+        "team": [
+          {
+            "team_id": 2773835,
+            "team_logo": "/file/18a4f5b2d26d93e83fd8f7295b0e5958.png",
+            "team_name": "广州龙狮",
+            "team_short_name": "Guangzhou Longlions",
+            "score": {
+              "r1": 15,
+              "r2": 24,
+              "r3": 22,
+              "r4": 39,
+              "total": 100
+            },
+            "pos": 2,
+            "id": 37320490,
+            "match_id": 37320488
+          },
+          {
+            "team_id": 2773399,
+            "team_logo": "/file/961268aa3cc2f03926d7706b3487b260.png",
+            "team_name": "北京鸭",
+            "team_short_name": "Beijing Ducks",
+            "score": {
+              "r1": 19,
+              "r2": 27,
+              "r3": 28,
+              "r4": 28,
+              "total": 102
+            },
+            "pos": 1,
+            "id": 37320489,
+            "match_id": 37320488
+          }
+        ],
+        "odds": [
+          {
+            "odds_group_id": 1279801,
+            "value": "",
+            "win": 1,
+            "status": 5,
+            "bet_limit": [
+              10,
+              10000
+            ],
+            "last_update": "1609224681",
+            "match_stage": "final",
+            "match_name": "北京鸭 - VS - 广州龙狮",
+            "group_name": "获胜者(含加时)",
+            "group_short_name": "Winner (Inc. Overtime)",
+            "id": 39977785,
+            "odds_id": 39977785,
+            "team_id": 2773399,
+            "name": "北京鸭",
+            "match_id": 37320488,
+            "odds": "1.35",
+            "tag": "win"
+          },
+          {
+            "odds_group_id": 1279801,
+            "value": "",
+            "win": 0,
+            "status": 5,
+            "bet_limit": [
+              10,
+              10000
+            ],
+            "last_update": "1609224681",
+            "match_stage": "final",
+            "match_name": "北京鸭 - VS - 广州龙狮",
+            "group_name": "获胜者(含加时)",
+            "group_short_name": "Winner (Inc. Overtime)",
+            "id": 39977786,
+            "odds_id": 39977786,
+            "team_id": 2773835,
+            "name": "广州龙狮",
+            "match_id": 37320488,
+            "odds": "2.87",
+            "tag": "win"
+          }
+        ],
+        "play_count": "15"
+      },
+      {
+        "game_id": 1072082,
+        "tournament_id": 2773104,
+        "tournament_logo": "/file/61ce1b535159f3b50bf3d32a6bb24723.png",
+        "status": 3,
+        "id": 37320485,
+        "enable_parlay": 0,
+        "game_name": "篮球",
+        "match_name": "江苏南钢龙 - VS - 深圳领航者",
+        "match_short_name": "Jiangsu Dragons - VS - Shenzhen Aviators",
+        "start_time": "2020-12-29 12:00:00",
+        "end_time": "2020-12-29 20:00:00",
+        "round": "bo4",
+        "tournament_name": "CBA中国男子篮球职业联赛",
+        "tournament_short_name": "CBA",
+        "team": [
+          {
+            "team_id": 2773813,
+            "team_logo": "/file/2e3253c1270cc643e611708dcc4f1783.png",
+            "team_name": "深圳领航者",
+            "team_short_name": "Shenzhen Aviators",
+            "score": {
+              "r1": 36,
+              "r2": 28,
+              "r3": 26,
+              "r4": 24,
+              "total": 114
+            },
+            "pos": 2,
+            "id": 37320487,
+            "match_id": 37320485
+          },
+          {
+            "team_id": 2773883,
+            "team_logo": "/file/53b0e54ce4ede7a26cbfc630dc017d62.png",
+            "team_name": "江苏南钢龙",
+            "team_short_name": "Jiangsu Dragons",
+            "score": {
+              "r1": 20,
+              "r2": 22,
+              "r3": 31,
+              "r4": 22,
+              "total": 95
+            },
+            "pos": 1,
+            "id": 37320486,
+            "match_id": 37320485
+          }
+        ],
+        "odds": [
+          {
+            "odds_group_id": 1279801,
+            "value": "",
+            "win": 0,
+            "status": 5,
+            "bet_limit": [
+              10,
+              5000
+            ],
+            "last_update": "1609221928",
+            "match_stage": "final",
+            "match_name": "江苏南钢龙 - VS - 深圳领航者",
+            "group_name": "获胜者(含加时)",
+            "group_short_name": "Winner (Inc. Overtime)",
+            "id": 39977777,
+            "odds_id": 39977777,
+            "team_id": 2773883,
+            "name": "江苏南钢龙",
+            "match_id": 37320485,
+            "odds": "3.01",
+            "tag": "win"
+          },
+          {
+            "odds_group_id": 1279801,
+            "value": "",
+            "win": 1,
+            "status": 5,
+            "bet_limit": [
+              10,
+              5000
+            ],
+            "last_update": "1609221928",
+            "match_stage": "final",
+            "match_name": "江苏南钢龙 - VS - 深圳领航者",
+            "group_name": "获胜者(含加时)",
+            "group_short_name": "Winner (Inc. Overtime)",
+            "id": 39977778,
+            "odds_id": 39977778,
+            "team_id": 2773813,
+            "name": "深圳领航者",
+            "match_id": 37320485,
+            "odds": "1.39",
+            "tag": "win"
+          }
+        ],
+        "play_count": "12"
+      },
+      {
+        "game_id": 151,
+        "tournament_id": 37307536,
+        "tournament_logo": "",
+        "status": 3,
+        "id": 37321672,
+        "enable_parlay": 0,
+        "game_name": "DOTA2",
+        "match_name": "Forest - VS - Phoenix Gaming",
+        "match_short_name": "Forest - VS - Phoenix Gaming",
+        "start_time": "2020-12-29 11:27:00",
+        "end_time": "2020-12-29 15:12:00",
+        "round": "bo3",
+        "tournament_name": "WCAA冬季电子竞技挑战赛",
+        "tournament_short_name": "WCAA Winter Challenge Cup",
+        "team": [
+          {
+            "team_id": 37263982,
+            "team_logo": "/file/634d2edd52abb4883ae4cb0ded6f0a33.png",
+            "team_name": "Phoenix Gaming",
+            "team_short_name": "Phoenix Gaming",
+            "score": {
+              "r1": 0,
+              "r2": 0,
+              "r3": 0,
+              "total": 0
+            },
+            "pos": 2,
+            "id": 37321674,
+            "match_id": 37321672
+          },
+          {
+            "team_id": 37287303,
+            "team_logo": "/file/4d998036a267b3147652118cdacc24d3.png",
+            "team_name": "Forest",
+            "team_short_name": "Forest",
+            "score": {
+              "r1": 1,
+              "r2": 1,
+              "r3": 0,
+              "total": 2
+            },
+            "pos": 1,
+            "id": 37321673,
+            "match_id": 37321672
+          }
+        ],
+        "odds": [
+          {
+            "odds_group_id": 16778,
+            "value": "",
+            "win": 1,
+            "status": 5,
+            "bet_limit": [
+              10,
+              3000
+            ],
+            "last_update": "1609220000",
+            "match_stage": "final",
+            "match_name": "Forest - VS - Phoenix Gaming",
+            "group_name": "获胜者",
+            "group_short_name": "Winner",
+            "id": 39975385,
+            "odds_id": 39975385,
+            "team_id": 37287303,
+            "name": "Forest",
+            "match_id": 37321672,
+            "odds": "1.26",
+            "tag": "win"
+          },
+          {
+            "odds_group_id": 16778,
+            "value": "",
+            "win": 0,
+            "status": 5,
+            "bet_limit": [
+              10,
+              3000
+            ],
+            "last_update": "1609220000",
+            "match_stage": "final",
+            "match_name": "Forest - VS - Phoenix Gaming",
+            "group_name": "获胜者",
+            "group_short_name": "Winner",
+            "id": 39975386,
+            "odds_id": 39975386,
+            "team_id": 37263982,
+            "name": "Phoenix Gaming",
+            "match_id": 37321672,
+            "odds": "3.43",
+            "tag": "win"
+          }
+        ],
+        "play_count": "40"
+      },
+      {
+        "game_id": 1072082,
+        "tournament_id": 1280496,
+        "tournament_logo": "/file/b4eb6c8609ec4a07575a7f88e09d940a.png",
+        "status": 3,
+        "id": 37320539,
+        "enable_parlay": 1,
+        "game_name": "篮球",
+        "match_name": "洛杉矶湖人 - VS - 波特兰开拓者",
+        "match_short_name": "Los Angeles Lakers - VS - Portland Trail Blazers",
+        "start_time": "2020-12-29 10:45:00",
+        "end_time": "2020-12-29 19:00:00",
+        "round": "bo4",
+        "tournament_name": "NBA美国职业篮球联赛",
+        "tournament_short_name": "NBA",
+        "team": [
+          {
+            "team_id": 1072959,
+            "team_logo": "/file/040b272fa8ab3c2df41e6d5689a47c76.png",
+            "team_name": "波特兰开拓者",
+            "team_short_name": "Portland Trail Blazers",
+            "score": {
+              "r1": 22,
+              "r2": 36,
+              "r3": 26,
+              "r4": 31,
+              "total": 115
+            },
+            "pos": 2,
+            "id": 37320541,
+            "match_id": 37320539
+          },
+          {
+            "team_id": 1072910,
+            "team_logo": "/file/942c6a2620da8b83da8a2fd66a32347b.png",
+            "team_name": "洛杉矶湖人",
+            "team_short_name": "Los Angeles Lakers",
+            "score": {
+              "r1": 30,
+              "r2": 24,
+              "r3": 31,
+              "r4": 22,
+              "total": 107
+            },
+            "pos": 1,
+            "id": 37320540,
+            "match_id": 37320539
+          }
+        ],
+        "odds": [
+          {
+            "odds_group_id": 1279801,
+            "value": "",
+            "win": 0,
+            "status": 5,
+            "bet_limit": [
+              10,
+              10000
+            ],
+            "last_update": "1609219544",
+            "match_stage": "final",
+            "match_name": "洛杉矶湖人 - VS - 波特兰开拓者",
+            "group_name": "获胜者(含加时)",
+            "group_short_name": "Winner (Inc. Overtime)",
+            "id": 39976578,
+            "odds_id": 39976578,
+            "team_id": 1072910,
+            "name": "洛杉矶湖人",
+            "match_id": 37320539,
+            "odds": "2.39",
+            "tag": "win"
+          },
+          {
+            "odds_group_id": 1279801,
+            "value": "",
+            "win": 1,
+            "status": 5,
+            "bet_limit": [
+              10,
+              10000
+            ],
+            "last_update": "1609219544",
+            "match_stage": "final",
+            "match_name": "洛杉矶湖人 - VS - 波特兰开拓者",
+            "group_name": "获胜者(含加时)",
+            "group_short_name": "Winner (Inc. Overtime)",
+            "id": 39976579,
+            "odds_id": 39976579,
+            "team_id": 1072959,
+            "name": "波特兰开拓者",
+            "match_id": 37320539,
+            "odds": "1.49",
+            "tag": "win"
+          }
+        ],
+        "play_count": "22"
+      },
+      {
+        "game_id": 1072082,
+        "tournament_id": 1280496,
+        "tournament_logo": "/file/b4eb6c8609ec4a07575a7f88e09d940a.png",
+        "status": 3,
+        "id": 37320536,
+        "enable_parlay": 1,
+        "game_name": "篮球",
+        "match_name": "丹佛掘金 - VS - 休斯敦火箭",
+        "match_short_name": "Denver Nuggets - VS - Houston Rockets",
+        "start_time": "2020-12-29 10:00:00",
+        "end_time": "2020-12-29 18:00:00",
+        "round": "bo4",
+        "tournament_name": "NBA美国职业篮球联赛",
+        "tournament_short_name": "NBA",
+        "team": [
+          {
+            "team_id": 1072898,
+            "team_logo": "/file/6831b2c6019e27e51da46d193436cb4c.png",
+            "team_name": "休斯敦火箭",
+            "team_short_name": "Houston Rockets",
+            "score": {
+              "r1": 26,
+              "r2": 34,
+              "r3": 23,
+              "r4": 28,
+              "total": 111
+            },
+            "pos": 2,
+            "id": 37320538,
+            "match_id": 37320536
+          },
+          {
+            "team_id": 1072885,
+            "team_logo": "/file/34881a9bb00b48b085d6adb7c8d81aec.png",
+            "team_name": "丹佛掘金",
+            "team_short_name": "Denver Nuggets",
+            "score": {
+              "r1": 36,
+              "r2": 34,
+              "r3": 36,
+              "r4": 18,
+              "total": 124
+            },
+            "pos": 1,
+            "id": 37320537,
+            "match_id": 37320536
+          }
+        ],
+        "odds": [
+          {
+            "odds_group_id": 1279801,
+            "value": "",
+            "win": 1,
+            "status": 5,
+            "bet_limit": [
+              10,
+              8000
+            ],
+            "last_update": "1609216316",
+            "match_stage": "final",
+            "match_name": "丹佛掘金 - VS - 休斯敦火箭",
+            "group_name": "获胜者(含加时)",
+            "group_short_name": "Winner (Inc. Overtime)",
+            "id": 39974611,
+            "odds_id": 39974611,
+            "team_id": 1072885,
+            "name": "丹佛掘金",
+            "match_id": 37320536,
+            "odds": "1.46",
+            "tag": "win"
+          },
+          {
+            "odds_group_id": 1279801,
+            "value": "",
+            "win": 0,
+            "status": 5,
+            "bet_limit": [
+              10,
+              8000
+            ],
+            "last_update": "1609216316",
+            "match_stage": "final",
+            "match_name": "丹佛掘金 - VS - 休斯敦火箭",
+            "group_name": "获胜者(含加时)",
+            "group_short_name": "Winner (Inc. Overtime)",
+            "id": 39974612,
+            "odds_id": 39974612,
+            "team_id": 1072898,
+            "name": "休斯敦火箭",
+            "match_id": 37320536,
+            "odds": "2.86",
+            "tag": "win"
+          }
+        ],
+        "play_count": "13"
+      },
+      {
+        "game_id": 37197927,
+        "tournament_id": 37321681,
+        "tournament_logo": "",
+        "status": 3,
+        "id": 37321842,
+        "enable_parlay": 0,
+        "game_name": "无畏契约",
+        "match_name": "Team Mafer - VS - Team Elect",
+        "match_short_name": "Team Mafer - VS - Team Elect",
+        "start_time": "2020-12-29 09:57:00",
+        "end_time": "2020-12-29 11:12:00",
+        "round": "bo1",
+        "tournament_name": "Quantum 邀请赛",
+        "tournament_short_name": "Quantum 邀请赛",
+        "team": [
+          {
+            "team_id": 37321701,
+            "team_logo": "/file/4d998036a267b3147652118cdacc24d3.png",
+            "team_name": "Team Elect",
+            "team_short_name": "Team Elect",
+            "score": {
+              "r1": 0,
+              "total": 0
+            },
+            "pos": 2,
+            "id": 37321844,
+            "match_id": 37321842
+          },
+          {
+            "team_id": 37321700,
+            "team_logo": "/file/4d998036a267b3147652118cdacc24d3.png",
+            "team_name": "Team Mafer",
+            "team_short_name": "Team Mafer",
+            "score": {
+              "r1": 1,
+              "total": 1
+            },
+            "pos": 1,
+            "id": 37321843,
+            "match_id": 37321842
+          }
+        ],
+        "odds": [
+          {
+            "odds_group_id": 16857,
+            "value": "",
+            "win": 1,
+            "status": 5,
+            "bet_limit": [
+              10,
+              2000
+            ],
+            "last_update": "1609209744",
+            "match_stage": "final",
+            "match_name": "Team Mafer - VS - Team Elect",
+            "group_name": "获胜者",
+            "group_short_name": "Winner",
+            "id": 39977049,
+            "odds_id": 39977049,
+            "team_id": 37321700,
+            "name": "Team Mafer",
+            "match_id": 37321842,
+            "odds": "1.01",
+            "tag": "win"
+          },
+          {
+            "odds_group_id": 16857,
+            "value": "",
+            "win": 0,
+            "status": 5,
+            "bet_limit": [
+              10,
+              2000
+            ],
+            "last_update": "1609209744",
+            "match_stage": "final",
+            "match_name": "Team Mafer - VS - Team Elect",
+            "group_name": "获胜者",
+            "group_short_name": "Winner",
+            "id": 39977050,
+            "odds_id": 39977050,
+            "team_id": 37321701,
+            "name": "Team Elect",
+            "match_id": 37321842,
+            "odds": "12.52",
+            "tag": "win"
+          }
+        ],
+        "play_count": "7"
+      },
+      {
+        "game_id": 37197927,
+        "tournament_id": 37321681,
+        "tournament_logo": "",
+        "status": 3,
+        "id": 37321839,
+        "enable_parlay": 0,
+        "game_name": "无畏契约",
+        "match_name": "Team Elect - VS - Team Aztkk",
+        "match_short_name": "Team Elect - VS - Team Aztkk",
+        "start_time": "2020-12-29 09:00:00",
+        "end_time": "2020-12-29 11:00:00",
+        "round": "bo1",
+        "tournament_name": "Quantum 邀请赛",
+        "tournament_short_name": "Quantum 邀请赛",
+        "team": [
+          {
+            "team_id": 37321703,
+            "team_logo": "/file/4d998036a267b3147652118cdacc24d3.png",
+            "team_name": "Team Aztkk",
+            "team_short_name": "Team Aztkk",
+            "score": {
+              "r1": 0,
+              "total": 0
+            },
+            "pos": 2,
+            "id": 37321841,
+            "match_id": 37321839
+          },
+          {
+            "team_id": 37321701,
+            "team_logo": "/file/4d998036a267b3147652118cdacc24d3.png",
+            "team_name": "Team Elect",
+            "team_short_name": "Team Elect",
+            "score": {
+              "r1": 1,
+              "total": 1
+            },
+            "pos": 1,
+            "id": 37321840,
+            "match_id": 37321839
+          }
+        ],
+        "odds": [
+          {
+            "odds_group_id": 16857,
+            "value": "",
+            "win": 1,
+            "status": 5,
+            "bet_limit": [
+              10,
+              2000
+            ],
+            "last_update": "1609206257",
+            "match_stage": "final",
+            "match_name": "Team Elect - VS - Team Aztkk",
+            "group_name": "获胜者",
+            "group_short_name": "Winner",
+            "id": 39977045,
+            "odds_id": 39977045,
+            "team_id": 37321701,
+            "name": "Team Elect",
+            "match_id": 37321839,
+            "odds": "1.00",
+            "tag": "win"
+          },
+          {
+            "odds_group_id": 16857,
+            "value": "",
+            "win": 0,
+            "status": 5,
+            "bet_limit": [
+              10,
+              2000
+            ],
+            "last_update": "1609206257",
+            "match_stage": "final",
+            "match_name": "Team Elect - VS - Team Aztkk",
+            "group_name": "获胜者",
+            "group_short_name": "Winner",
+            "id": 39977046,
+            "odds_id": 39977046,
+            "team_id": 37321703,
+            "name": "Team Aztkk",
+            "match_id": 37321839,
+            "odds": "14.29",
+            "tag": "win"
+          }
+        ],
+        "play_count": "7"
+      },
+      {
+        "game_id": 1072082,
+        "tournament_id": 1280496,
+        "tournament_logo": "/file/b4eb6c8609ec4a07575a7f88e09d940a.png",
+        "status": 3,
+        "id": 37320533,
+        "enable_parlay": 1,
+        "game_name": "篮球",
+        "match_name": "奥克拉荷马城雷霆 - VS - 犹他爵士",
+        "match_short_name": "Oklahoma City Thunder - VS - Utah Jazz",
+        "start_time": "2020-12-29 09:00:00",
+        "end_time": "2020-12-29 17:00:00",
+        "round": "bo4",
+        "tournament_name": "NBA美国职业篮球联赛",
+        "tournament_short_name": "NBA",
+        "team": [
+          {
+            "team_id": 1072989,
+            "team_logo": "/file/4e6ac8ecd8f9958d7b6b068a92f6af5d.png",
+            "team_name": "犹他爵士",
+            "team_short_name": "Utah Jazz",
+            "score": {
+              "r1": 22,
+              "r2": 27,
+              "r3": 35,
+              "r4": 26,
+              "total": 110
+            },
+            "pos": 2,
+            "id": 37320535,
+            "match_id": 37320533
+          },
+          {
+            "team_id": 1072944,
+            "team_logo": "/file/02678061d70ddda2cf439cf9533307ef.png",
+            "team_name": "奥克拉荷马城雷霆",
+            "team_short_name": "Oklahoma City Thunder",
+            "score": {
+              "r1": 24,
+              "r2": 28,
+              "r3": 35,
+              "r4": 22,
+              "total": 109
+            },
+            "pos": 1,
+            "id": 37320534,
+            "match_id": 37320533
+          }
+        ],
+        "odds": [
+          {
+            "odds_group_id": 1279801,
+            "value": "",
+            "win": 1,
+            "status": 5,
+            "bet_limit": [
+              10,
+              8000
+            ],
+            "last_update": "1609212751",
+            "match_stage": "final",
+            "match_name": "奥克拉荷马城雷霆 - VS - 犹他爵士",
+            "group_name": "获胜者(含加时)",
+            "group_short_name": "Winner (Inc. Overtime)",
+            "id": 39974586,
+            "odds_id": 39974586,
+            "team_id": 1072989,
+            "name": "犹他爵士",
+            "match_id": 37320533,
+            "odds": "1.27",
+            "tag": "win"
+          },
+          {
+            "odds_group_id": 1279801,
+            "value": "",
+            "win": 0,
+            "status": 5,
+            "bet_limit": [
+              10,
+              8000
+            ],
+            "last_update": "1609212751",
+            "match_stage": "final",
+            "match_name": "奥克拉荷马城雷霆 - VS - 犹他爵士",
+            "group_name": "获胜者(含加时)",
+            "group_short_name": "Winner (Inc. Overtime)",
+            "id": 39974585,
+            "odds_id": 39974585,
+            "team_id": 1072944,
+            "name": "奥克拉荷马城雷霆",
+            "match_id": 37320533,
+            "odds": "4.05",
+            "tag": "win"
+          }
+        ],
+        "play_count": "13"
+      },
+      {
+        "game_id": 1072082,
+        "tournament_id": 1280496,
+        "tournament_logo": "/file/b4eb6c8609ec4a07575a7f88e09d940a.png",
+        "status": 3,
+        "id": 37320527,
+        "enable_parlay": 1,
+        "game_name": "篮球",
+        "match_name": "亚特兰大老鹰 - VS - 底特律活塞",
+        "match_short_name": "Atlanta Hawks - VS - Detroit Pistons",
+        "start_time": "2020-12-29 08:30:00",
+        "end_time": "2020-12-29 16:30:00",
+        "round": "bo4",
+        "tournament_name": "NBA美国职业篮球联赛",
+        "tournament_short_name": "NBA",
+        "team": [
+          {
+            "team_id": 1072887,
+            "team_logo": "/file/a661fc488aa67e4a634ecd1872b6b218.png",
+            "team_name": "底特律活塞",
+            "team_short_name": "Detroit Pistons",
+            "score": {
+              "r1": 25,
+              "r2": 31,
+              "r3": 31,
+              "r4": 33,
+              "total": 120
+            },
+            "pos": 2,
+            "id": 37320529,
+            "match_id": 37320527
+          },
+          {
+            "team_id": 1072843,
+            "team_logo": "/file/c0c64a7db1a0f921af066173dba73c15.png",
+            "team_name": "亚特兰大老鹰",
+            "team_short_name": "Atlanta Hawks",
+            "score": {
+              "r1": 33,
+              "r2": 32,
+              "r3": 35,
+              "r4": 28,
+              "total": 128
+            },
+            "pos": 1,
+            "id": 37320528,
+            "match_id": 37320527
+          }
+        ],
+        "odds": [
+          {
+            "odds_group_id": 1279801,
+            "value": "",
+            "win": 1,
+            "status": 5,
+            "bet_limit": [
+              10,
+              8000
+            ],
+            "last_update": "1609211293",
+            "match_stage": "final",
+            "match_name": "亚特兰大老鹰 - VS - 底特律活塞",
+            "group_name": "获胜者(含加时)",
+            "group_short_name": "Winner (Inc. Overtime)",
+            "id": 39974557,
+            "odds_id": 39974557,
+            "team_id": 1072843,
+            "name": "亚特兰大老鹰",
+            "match_id": 37320527,
+            "odds": "1.25",
+            "tag": "win"
+          },
+          {
+            "odds_group_id": 1279801,
+            "value": "",
+            "win": 0,
+            "status": 5,
+            "bet_limit": [
+              10,
+              8000
+            ],
+            "last_update": "1609211293",
+            "match_stage": "final",
+            "match_name": "亚特兰大老鹰 - VS - 底特律活塞",
+            "group_name": "获胜者(含加时)",
+            "group_short_name": "Winner (Inc. Overtime)",
+            "id": 39974558,
+            "odds_id": 39974558,
+            "team_id": 1072887,
+            "name": "底特律活塞",
+            "match_id": 37320527,
+            "odds": "4.26",
+            "tag": "win"
+          }
+        ],
+        "play_count": "13"
+      },
+      {
+        "game_id": 1072082,
+        "tournament_id": 1280496,
+        "tournament_logo": "/file/b4eb6c8609ec4a07575a7f88e09d940a.png",
+        "status": 3,
+        "id": 37320530,
+        "enable_parlay": 1,
+        "game_name": "篮球",
+        "match_name": "布鲁克林篮网 - VS - 孟菲斯灰熊",
+        "match_short_name": "Brooklyn Nets - VS - Memphis Grizzlies",
+        "start_time": "2020-12-29 08:15:00",
+        "end_time": "2020-12-29 16:30:00",
+        "round": "bo4",
+        "tournament_name": "NBA美国职业篮球联赛",
+        "tournament_short_name": "NBA",
+        "team": [
+          {
+            "team_id": 1072914,
+            "team_logo": "/file/7172083a98ff2387a2366dd2459fac5c.png",
+            "team_name": "孟菲斯灰熊",
+            "team_short_name": "Memphis Grizzlies",
+            "score": {
+              "r1": 32,
+              "r2": 22,
+              "r3": 33,
+              "r4": 29,
+              "total": 116
+            },
+            "pos": 2,
+            "id": 37320532,
+            "match_id": 37320530
+          },
+          {
+            "team_id": 1072854,
+            "team_logo": "/file/f4f748dfd6ec732c835797468ad9c1e8.png",
+            "team_name": "布鲁克林篮网",
+            "team_short_name": "Brooklyn Nets",
+            "score": {
+              "r1": 23,
+              "r2": 32,
+              "r3": 30,
+              "r4": 26,
+              "total": 111
+            },
+            "pos": 1,
+            "id": 37320531,
+            "match_id": 37320530
+          }
+        ],
+        "odds": [
+          {
+            "odds_group_id": 1279801,
+            "value": "",
+            "win": 0,
+            "status": 5,
+            "bet_limit": [
+              10,
+              5000
+            ],
+            "last_update": "1609211082",
+            "match_stage": "final",
+            "match_name": "布鲁克林篮网 - VS - 孟菲斯灰熊",
+            "group_name": "获胜者(含加时)",
+            "group_short_name": "Winner (Inc. Overtime)",
+            "id": 39976542,
+            "odds_id": 39976542,
+            "team_id": 1072854,
+            "name": "布鲁克林篮网",
+            "match_id": 37320530,
+            "odds": "1.75",
+            "tag": "win"
+          },
+          {
+            "odds_group_id": 1279801,
+            "value": "",
+            "win": 1,
+            "status": 5,
+            "bet_limit": [
+              10,
+              5000
+            ],
+            "last_update": "1609211082",
+            "match_stage": "final",
+            "match_name": "布鲁克林篮网 - VS - 孟菲斯灰熊",
+            "group_name": "获胜者(含加时)",
+            "group_short_name": "Winner (Inc. Overtime)",
+            "id": 39976543,
+            "odds_id": 39976543,
+            "team_id": 1072914,
+            "name": "孟菲斯灰熊",
+            "match_id": 37320530,
+            "odds": "1.93",
+            "tag": "win"
+          }
+        ],
+        "play_count": "22"
+      }
+    ]
+  }
