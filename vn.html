@@ -32,21 +32,17 @@
         var ua = navigator.userAgent.toLowerCase();
         return ua.match(/MicroMessenger/i) == "micromessenger";
     }; 
-    var website="https://www.lsj001.me";
+    var website="https://iwin20.com";
 
     (function(){
         var channelID=getUrlParameter('channelID');
         var subChannelID=getUrlParameter('subChannelID');
-        alert('channelID=='+channelID+';subChannelID=='+subChannelID);
-        if(isWeixin())
-        {
-            website=website+'/open_wechat_url?url='+encodeURIComponent(url);
-        }else{
-            website=website+'/open_url?url='+encodeURIComponent(url);
-        }
+        //alert('channelID=='+channelID+';subChannelID=='+subChannelID);
+        
+        website+='?channelID='+channelID+'&subChannelID='+subChannelID;
         setTimeout(function(){ 
 
-            //window.location.href=website;
+            window.location.href=website;
 
          }, 1000);
 
